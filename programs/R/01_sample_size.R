@@ -1,0 +1,100 @@
+
+# DIA-GLY3: Sample size calculation
+
+# Planning assumptions
+delta <- 0.5
+sd_hba1c <- 1.5
+alpha <- 0.05
+target_power <- 0.90
+missing_rate <- 0.20
+
+# Two-sample t-test approximation
+result <- power.t.test(
+  delta = delta,
+  sd = sd_hba1c,
+  sig.level = alpha,
+  power = target_power,
+  type = "two.sample",
+  alternative = "two.sided"
+)
+
+print(result)
+
+# Required evaluable participants per arm
+n_evaluable <- ceiling(result$n)
+
+# Inflate for missing Week-26 outcomes
+n_randomized <- ceiling(
+  n_evaluable / (1 - missing_rate)
+)
+
+# Final sample size with 1:1 allocation
+cat("Evaluable per arm:", n_evaluable, "\n")
+cat("Randomized per arm:", n_randomized, "\n")
+cat("Total randomized:", 2 * n_randomized, "\n")
+
+
+
+# ANCOVA-adjusted sample size: illustrative approximation
+
+rho <- 0.5
+
+sd_adjusted <- sd_hba1c * sqrt(1 - rho^2)
+
+ancova_result <- power.t.test(
+  delta = delta,
+  sd = sd_adjusted,
+  sig.level = alpha,
+  power = target_power,
+  type = "two.sample",
+  alternative = "two.sided"
+)
+
+print(ancova_result)
+
+n_ancova <- ceiling(ancova_result$n)
+n_randomized_ancova <- ceiling(n_ancova / (1 - missing_rate))
+
+cat("Evaluable per arm:", n_ancova, "\n")
+cat("Randomized per arm:", n_randomized_ancova, "\n")
+cat("Total randomized:", 2 * n_randomized_ancova, "\n")
+
+
+# Sensitivity analysis for baseline correlation
+
+correlations <- c(0, 0.2, 0.4, 0.5, 0.6, 0.7)
+
+results <- data.frame()
+
+for (rho in correlations) {
+  
+  adjusted_sd <- sd_hba1c * sqrt(1 - rho^2)
+  
+  power_result <- power.t.test(
+    delta = delta,
+    sd = adjusted_sd,
+    sig.level = alpha,
+    power = target_power,
+    type = "two.sample",
+    alternative = "two.sided"
+  )
+  
+  evaluable_per_arm <- ceiling(power_result$n)
+  
+  randomized_per_arm <- ceiling(
+    evaluable_per_arm / (1 - missing_rate)
+  )
+  
+  results <- rbind(
+    results,
+    data.frame(
+      Correlation = rho,
+      Adjusted_SD = round(adjusted_sd, 3),
+      Evaluable_Per_Arm = evaluable_per_arm,
+      Total_Randomized = 2 * randomized_per_arm
+    )
+  )
+}
+
+print(results)
+

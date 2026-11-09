@@ -1,0 +1,252 @@
+"STUDYID","DOMAIN","USUBJID","AESEQ","AETERM","AEBODSYS","AESEV","AESER","AEREL","AEACN","AESTDY","AEENDY"
+"DIA-GLY3","AE","DIA0006",1,"Nausea","Gastrointestinal disorders","MODERATE","N","NOT RELATED","NONE",36,52
+"DIA-GLY3","AE","DIA0007",1,"Urinary tract infection","Infections and infestations","MILD","N","NOT RELATED","NONE",11,25
+"DIA-GLY3","AE","DIA0007",2,"Headache","Nervous system disorders","SEVERE","N","NOT RELATED","NONE",152,154
+"DIA-GLY3","AE","DIA0008",1,"Urinary tract infection","Infections and infestations","MILD","N","NOT RELATED","NONE",6,25
+"DIA-GLY3","AE","DIA0008",2,"Dizziness","Nervous system disorders","MILD","N","NOT RELATED","DOSE INTERRUPTED",139,154
+"DIA-GLY3","AE","DIA0013",1,"Diarrhea","Gastrointestinal disorders","MILD","N","NOT RELATED","NONE",86,90
+"DIA-GLY3","AE","DIA0014",1,"Dizziness","Nervous system disorders","MILD","N","NOT RELATED","NONE",127,135
+"DIA-GLY3","AE","DIA0017",1,"Nausea","Gastrointestinal disorders","MILD","N","RELATED","NONE",157,162
+"DIA-GLY3","AE","DIA0019",1,"Urinary tract infection","Infections and infestations","MILD","N","NOT RELATED","NONE",89,101
+"DIA-GLY3","AE","DIA0022",1,"Diarrhea","Gastrointestinal disorders","SEVERE","Y","NOT RELATED","DOSE INTERRUPTED",130,131
+"DIA-GLY3","AE","DIA0024",1,"Nausea","Gastrointestinal disorders","MILD","N","NOT RELATED","NONE",115,120
+"DIA-GLY3","AE","DIA0028",1,"Dizziness","Nervous system disorders","MILD","N","NOT RELATED","NONE",207,225
+"DIA-GLY3","AE","DIA0029",1,"Nausea","Gastrointestinal disorders","SEVERE","Y","RELATED","NONE",150,163
+"DIA-GLY3","AE","DIA0030",1,"Urinary tract infection","Infections and infestations","MODERATE","N","RELATED","NONE",34,47
+"DIA-GLY3","AE","DIA0033",1,"Dizziness","Nervous system disorders","SEVERE","N","NOT RELATED","NONE",165,177
+"DIA-GLY3","AE","DIA0034",1,"Diarrhea","Gastrointestinal disorders","SEVERE","Y","RELATED","NONE",153,170
+"DIA-GLY3","AE","DIA0036",1,"Urinary tract infection","Infections and infestations","MILD","N","RELATED","NONE",173,178
+"DIA-GLY3","AE","DIA0038",1,"Urinary tract infection","Infections and infestations","MODERATE","N","NOT RELATED","NONE",80,88
+"DIA-GLY3","AE","DIA0039",1,"Nasopharyngitis","Infections and infestations","MILD","N","RELATED","NONE",189,204
+"DIA-GLY3","AE","DIA0042",1,"Nausea","Gastrointestinal disorders","MILD","N","NOT RELATED","NONE",76,83
+"DIA-GLY3","AE","DIA0042",2,"Headache","Nervous system disorders","MILD","N","NOT RELATED","NONE",208,210
+"DIA-GLY3","AE","DIA0045",1,"Urinary tract infection","Infections and infestations","MILD","N","RELATED","NONE",119,136
+"DIA-GLY3","AE","DIA0053",1,"Dizziness","Nervous system disorders","MILD","N","NOT RELATED","NONE",9,30
+"DIA-GLY3","AE","DIA0054",1,"Nasopharyngitis","Infections and infestations","MODERATE","N","RELATED","NONE",183,202
+"DIA-GLY3","AE","DIA0054",2,"Nausea","Gastrointestinal disorders","MILD","N","NOT RELATED","NONE",165,186
+"DIA-GLY3","AE","DIA0057",1,"Diarrhea","Gastrointestinal disorders","MILD","N","NOT RELATED","NONE",162,176
+"DIA-GLY3","AE","DIA0057",2,"Nausea","Gastrointestinal disorders","MILD","N","RELATED","NONE",213,226
+"DIA-GLY3","AE","DIA0057",3,"Nausea","Gastrointestinal disorders","MODERATE","N","RELATED","DOSE INTERRUPTED",145,155
+"DIA-GLY3","AE","DIA0059",1,"Urinary tract infection","Infections and infestations","SEVERE","N","NOT RELATED","NONE",195,216
+"DIA-GLY3","AE","DIA0061",1,"Diarrhea","Gastrointestinal disorders","MILD","N","NOT RELATED","NONE",8,16
+"DIA-GLY3","AE","DIA0067",1,"Nasopharyngitis","Infections and infestations","MILD","N","NOT RELATED","NONE",123,125
+"DIA-GLY3","AE","DIA0070",1,"Headache","Nervous system disorders","MILD","N","NOT RELATED","NONE",24,42
+"DIA-GLY3","AE","DIA0071",1,"Diarrhea","Gastrointestinal disorders","MILD","N","RELATED","NONE",59,66
+"DIA-GLY3","AE","DIA0071",2,"Diarrhea","Gastrointestinal disorders","MILD","N","RELATED","NONE",47,51
+"DIA-GLY3","AE","DIA0072",1,"Urinary tract infection","Infections and infestations","MODERATE","N","NOT RELATED","NONE",173,177
+"DIA-GLY3","AE","DIA0072",2,"Nausea","Gastrointestinal disorders","MILD","N","RELATED","NONE",21,38
+"DIA-GLY3","AE","DIA0075",1,"Diarrhea","Gastrointestinal disorders","SEVERE","N","RELATED","NONE",159,167
+"DIA-GLY3","AE","DIA0076",1,"Urinary tract infection","Infections and infestations","MILD","N","NOT RELATED","NONE",140,153
+"DIA-GLY3","AE","DIA0079",1,"Dizziness","Nervous system disorders","MILD","N","NOT RELATED","NONE",54,71
+"DIA-GLY3","AE","DIA0081",1,"Urinary tract infection","Infections and infestations","MILD","N","NOT RELATED","DOSE INTERRUPTED",134,148
+"DIA-GLY3","AE","DIA0081",2,"Nausea","Gastrointestinal disorders","MILD","N","NOT RELATED","NONE",150,151
+"DIA-GLY3","AE","DIA0082",1,"Dizziness","Nervous system disorders","MILD","N","NOT RELATED","DOSE INTERRUPTED",98,103
+"DIA-GLY3","AE","DIA0089",1,"Urinary tract infection","Infections and infestations","MODERATE","N","NOT RELATED","NONE",160,165
+"DIA-GLY3","AE","DIA0090",1,"Nausea","Gastrointestinal disorders","MILD","N","NOT RELATED","NONE",212,221
+"DIA-GLY3","AE","DIA0090",2,"Urinary tract infection","Infections and infestations","MILD","N","NOT RELATED","NONE",85,104
+"DIA-GLY3","AE","DIA0091",1,"Dizziness","Nervous system disorders","MODERATE","N","RELATED","NONE",16,25
+"DIA-GLY3","AE","DIA0093",1,"Nausea","Gastrointestinal disorders","SEVERE","Y","NOT RELATED","NONE",73,83
+"DIA-GLY3","AE","DIA0094",1,"Diarrhea","Gastrointestinal disorders","SEVERE","N","NOT RELATED","NONE",101,119
+"DIA-GLY3","AE","DIA0095",1,"Nasopharyngitis","Infections and infestations","MODERATE","N","RELATED","NONE",64,79
+"DIA-GLY3","AE","DIA0097",1,"Headache","Nervous system disorders","MILD","N","NOT RELATED","NONE",15,20
+"DIA-GLY3","AE","DIA0100",1,"Urinary tract infection","Infections and infestations","MILD","N","NOT RELATED","DOSE INTERRUPTED",204,217
+"DIA-GLY3","AE","DIA0101",1,"Diarrhea","Gastrointestinal disorders","MILD","N","RELATED","NONE",43,48
+"DIA-GLY3","AE","DIA0101",2,"Headache","Nervous system disorders","MILD","N","RELATED","NONE",106,127
+"DIA-GLY3","AE","DIA0105",1,"Headache","Nervous system disorders","MILD","N","RELATED","NONE",72,92
+"DIA-GLY3","AE","DIA0105",2,"Urinary tract infection","Infections and infestations","MILD","N","RELATED","NONE",25,43
+"DIA-GLY3","AE","DIA0107",1,"Diarrhea","Gastrointestinal disorders","MODERATE","N","NOT RELATED","NONE",71,85
+"DIA-GLY3","AE","DIA0109",1,"Diarrhea","Gastrointestinal disorders","MILD","N","RELATED","NONE",15,23
+"DIA-GLY3","AE","DIA0112",1,"Headache","Nervous system disorders","MODERATE","Y","NOT RELATED","NONE",87,96
+"DIA-GLY3","AE","DIA0113",1,"Nasopharyngitis","Infections and infestations","MILD","N","NOT RELATED","NONE",40,51
+"DIA-GLY3","AE","DIA0113",2,"Diarrhea","Gastrointestinal disorders","MILD","N","NOT RELATED","NONE",201,213
+"DIA-GLY3","AE","DIA0116",1,"Headache","Nervous system disorders","MILD","N","RELATED","NONE",61,73
+"DIA-GLY3","AE","DIA0123",1,"Diarrhea","Gastrointestinal disorders","MILD","N","NOT RELATED","NONE",16,36
+"DIA-GLY3","AE","DIA0124",1,"Nausea","Gastrointestinal disorders","MILD","N","NOT RELATED","DOSE INTERRUPTED",89,102
+"DIA-GLY3","AE","DIA0126",1,"Nasopharyngitis","Infections and infestations","SEVERE","Y","RELATED","NONE",42,46
+"DIA-GLY3","AE","DIA0127",1,"Dizziness","Nervous system disorders","MILD","N","NOT RELATED","NONE",160,179
+"DIA-GLY3","AE","DIA0127",2,"Nasopharyngitis","Infections and infestations","MILD","N","NOT RELATED","NONE",106,120
+"DIA-GLY3","AE","DIA0128",1,"Dizziness","Nervous system disorders","MODERATE","N","NOT RELATED","NONE",155,169
+"DIA-GLY3","AE","DIA0132",1,"Urinary tract infection","Infections and infestations","MILD","N","NOT RELATED","DOSE INTERRUPTED",213,218
+"DIA-GLY3","AE","DIA0134",1,"Diarrhea","Gastrointestinal disorders","MILD","N","NOT RELATED","NONE",159,171
+"DIA-GLY3","AE","DIA0135",1,"Urinary tract infection","Infections and infestations","MODERATE","N","NOT RELATED","NONE",208,217
+"DIA-GLY3","AE","DIA0136",1,"Urinary tract infection","Infections and infestations","MILD","N","NOT RELATED","NONE",88,106
+"DIA-GLY3","AE","DIA0136",2,"Headache","Nervous system disorders","MILD","N","NOT RELATED","NONE",4,6
+"DIA-GLY3","AE","DIA0139",1,"Urinary tract infection","Infections and infestations","MILD","N","RELATED","NONE",94,104
+"DIA-GLY3","AE","DIA0142",1,"Nausea","Gastrointestinal disorders","MODERATE","N","RELATED","NONE",204,215
+"DIA-GLY3","AE","DIA0143",1,"Urinary tract infection","Infections and infestations","MILD","N","RELATED","NONE",155,169
+"DIA-GLY3","AE","DIA0143",2,"Headache","Nervous system disorders","MILD","N","RELATED","DOSE INTERRUPTED",123,141
+"DIA-GLY3","AE","DIA0145",1,"Nasopharyngitis","Infections and infestations","MILD","N","NOT RELATED","NONE",82,101
+"DIA-GLY3","AE","DIA0147",1,"Diarrhea","Gastrointestinal disorders","MILD","N","RELATED","NONE",7,25
+"DIA-GLY3","AE","DIA0151",1,"Headache","Nervous system disorders","MODERATE","N","RELATED","NONE",116,122
+"DIA-GLY3","AE","DIA0152",1,"Urinary tract infection","Infections and infestations","MODERATE","N","RELATED","NONE",59,69
+"DIA-GLY3","AE","DIA0156",1,"Dizziness","Nervous system disorders","MILD","N","RELATED","NONE",111,119
+"DIA-GLY3","AE","DIA0170",1,"Diarrhea","Gastrointestinal disorders","MILD","N","NOT RELATED","NONE",74,75
+"DIA-GLY3","AE","DIA0170",2,"Headache","Nervous system disorders","MILD","N","NOT RELATED","NONE",65,86
+"DIA-GLY3","AE","DIA0172",1,"Headache","Nervous system disorders","MILD","N","NOT RELATED","DOSE INTERRUPTED",53,57
+"DIA-GLY3","AE","DIA0174",1,"Headache","Nervous system disorders","MILD","N","NOT RELATED","NONE",141,155
+"DIA-GLY3","AE","DIA0175",1,"Nasopharyngitis","Infections and infestations","MILD","N","NOT RELATED","NONE",15,28
+"DIA-GLY3","AE","DIA0175",2,"Headache","Nervous system disorders","MILD","N","NOT RELATED","NONE",15,20
+"DIA-GLY3","AE","DIA0176",1,"Nausea","Gastrointestinal disorders","MILD","N","RELATED","NONE",14,26
+"DIA-GLY3","AE","DIA0176",2,"Dizziness","Nervous system disorders","MILD","N","NOT RELATED","NONE",31,49
+"DIA-GLY3","AE","DIA0177",1,"Diarrhea","Gastrointestinal disorders","MODERATE","N","NOT RELATED","NONE",134,149
+"DIA-GLY3","AE","DIA0178",1,"Urinary tract infection","Infections and infestations","MILD","N","NOT RELATED","NONE",52,69
+"DIA-GLY3","AE","DIA0178",2,"Diarrhea","Gastrointestinal disorders","MILD","N","RELATED","NONE",194,210
+"DIA-GLY3","AE","DIA0179",1,"Urinary tract infection","Infections and infestations","SEVERE","N","NOT RELATED","NONE",74,82
+"DIA-GLY3","AE","DIA0182",1,"Diarrhea","Gastrointestinal disorders","MILD","N","NOT RELATED","NONE",45,50
+"DIA-GLY3","AE","DIA0183",1,"Dizziness","Nervous system disorders","MILD","N","RELATED","NONE",22,23
+"DIA-GLY3","AE","DIA0183",2,"Headache","Nervous system disorders","MODERATE","N","RELATED","NONE",153,160
+"DIA-GLY3","AE","DIA0184",1,"Urinary tract infection","Infections and infestations","MILD","N","NOT RELATED","NONE",27,38
+"DIA-GLY3","AE","DIA0184",2,"Urinary tract infection","Infections and infestations","MILD","N","RELATED","NONE",73,86
+"DIA-GLY3","AE","DIA0184",3,"Nasopharyngitis","Infections and infestations","MODERATE","N","NOT RELATED","NONE",44,62
+"DIA-GLY3","AE","DIA0187",1,"Nasopharyngitis","Infections and infestations","MILD","N","NOT RELATED","DOSE INTERRUPTED",162,180
+"DIA-GLY3","AE","DIA0187",2,"Diarrhea","Gastrointestinal disorders","MILD","N","NOT RELATED","NONE",185,200
+"DIA-GLY3","AE","DIA0189",1,"Urinary tract infection","Infections and infestations","MILD","N","NOT RELATED","NONE",105,120
+"DIA-GLY3","AE","DIA0190",1,"Headache","Nervous system disorders","MILD","N","NOT RELATED","NONE",74,83
+"DIA-GLY3","AE","DIA0190",2,"Urinary tract infection","Infections and infestations","MILD","N","NOT RELATED","NONE",124,125
+"DIA-GLY3","AE","DIA0190",3,"Headache","Nervous system disorders","MILD","N","NOT RELATED","DOSE INTERRUPTED",108,112
+"DIA-GLY3","AE","DIA0191",1,"Diarrhea","Gastrointestinal disorders","MILD","N","NOT RELATED","NONE",35,43
+"DIA-GLY3","AE","DIA0195",1,"Dizziness","Nervous system disorders","MILD","N","RELATED","NONE",129,132
+"DIA-GLY3","AE","DIA0195",2,"Headache","Nervous system disorders","MILD","N","NOT RELATED","NONE",200,216
+"DIA-GLY3","AE","DIA0196",1,"Dizziness","Nervous system disorders","MODERATE","N","NOT RELATED","NONE",8,11
+"DIA-GLY3","AE","DIA0200",1,"Dizziness","Nervous system disorders","SEVERE","N","NOT RELATED","NONE",197,205
+"DIA-GLY3","AE","DIA0201",1,"Dizziness","Nervous system disorders","MILD","N","RELATED","NONE",35,46
+"DIA-GLY3","AE","DIA0202",1,"Nausea","Gastrointestinal disorders","MILD","N","RELATED","NONE",30,35
+"DIA-GLY3","AE","DIA0207",1,"Dizziness","Nervous system disorders","MODERATE","N","RELATED","DOSE INTERRUPTED",183,198
+"DIA-GLY3","AE","DIA0209",1,"Nasopharyngitis","Infections and infestations","MILD","N","NOT RELATED","NONE",69,85
+"DIA-GLY3","AE","DIA0213",1,"Headache","Nervous system disorders","MILD","N","NOT RELATED","NONE",15,19
+"DIA-GLY3","AE","DIA0214",1,"Diarrhea","Gastrointestinal disorders","MILD","N","RELATED","NONE",117,133
+"DIA-GLY3","AE","DIA0214",2,"Nasopharyngitis","Infections and infestations","MILD","N","NOT RELATED","NONE",169,170
+"DIA-GLY3","AE","DIA0216",1,"Headache","Nervous system disorders","MILD","N","NOT RELATED","DOSE INTERRUPTED",111,114
+"DIA-GLY3","AE","DIA0217",1,"Dizziness","Nervous system disorders","MILD","N","RELATED","NONE",46,66
+"DIA-GLY3","AE","DIA0230",1,"Dizziness","Nervous system disorders","MILD","N","NOT RELATED","NONE",9,23
+"DIA-GLY3","AE","DIA0238",1,"Urinary tract infection","Infections and infestations","MILD","N","NOT RELATED","NONE",145,166
+"DIA-GLY3","AE","DIA0238",2,"Nausea","Gastrointestinal disorders","MODERATE","N","RELATED","NONE",59,80
+"DIA-GLY3","AE","DIA0241",1,"Nausea","Gastrointestinal disorders","MILD","N","NOT RELATED","NONE",76,97
+"DIA-GLY3","AE","DIA0245",1,"Nasopharyngitis","Infections and infestations","MILD","N","NOT RELATED","NONE",179,197
+"DIA-GLY3","AE","DIA0246",1,"Nasopharyngitis","Infections and infestations","MILD","N","RELATED","NONE",148,160
+"DIA-GLY3","AE","DIA0248",1,"Headache","Nervous system disorders","MODERATE","N","NOT RELATED","NONE",47,53
+"DIA-GLY3","AE","DIA0251",1,"Diarrhea","Gastrointestinal disorders","MODERATE","N","RELATED","NONE",49,59
+"DIA-GLY3","AE","DIA0251",2,"Nasopharyngitis","Infections and infestations","MILD","N","RELATED","NONE",42,45
+"DIA-GLY3","AE","DIA0252",1,"Nasopharyngitis","Infections and infestations","MILD","N","NOT RELATED","NONE",66,83
+"DIA-GLY3","AE","DIA0252",2,"Nausea","Gastrointestinal disorders","MODERATE","N","NOT RELATED","NONE",159,163
+"DIA-GLY3","AE","DIA0253",1,"Dizziness","Nervous system disorders","MODERATE","N","NOT RELATED","NONE",18,27
+"DIA-GLY3","AE","DIA0255",1,"Nasopharyngitis","Infections and infestations","MILD","N","NOT RELATED","NONE",211,229
+"DIA-GLY3","AE","DIA0258",1,"Nausea","Gastrointestinal disorders","SEVERE","N","NOT RELATED","NONE",121,124
+"DIA-GLY3","AE","DIA0259",1,"Nasopharyngitis","Infections and infestations","MILD","N","RELATED","NONE",67,86
+"DIA-GLY3","AE","DIA0262",1,"Headache","Nervous system disorders","MILD","N","RELATED","NONE",4,13
+"DIA-GLY3","AE","DIA0264",1,"Diarrhea","Gastrointestinal disorders","MILD","N","NOT RELATED","NONE",160,162
+"DIA-GLY3","AE","DIA0265",1,"Nasopharyngitis","Infections and infestations","MODERATE","N","RELATED","NONE",146,152
+"DIA-GLY3","AE","DIA0266",1,"Diarrhea","Gastrointestinal disorders","MILD","N","NOT RELATED","NONE",102,106
+"DIA-GLY3","AE","DIA0271",1,"Dizziness","Nervous system disorders","MILD","N","NOT RELATED","NONE",210,224
+"DIA-GLY3","AE","DIA0273",1,"Urinary tract infection","Infections and infestations","MODERATE","N","NOT RELATED","NONE",148,160
+"DIA-GLY3","AE","DIA0274",1,"Dizziness","Nervous system disorders","MILD","N","NOT RELATED","NONE",4,16
+"DIA-GLY3","AE","DIA0279",1,"Urinary tract infection","Infections and infestations","MILD","N","NOT RELATED","NONE",97,109
+"DIA-GLY3","AE","DIA0280",1,"Urinary tract infection","Infections and infestations","MILD","N","RELATED","DOSE INTERRUPTED",204,211
+"DIA-GLY3","AE","DIA0281",1,"Nausea","Gastrointestinal disorders","MILD","N","NOT RELATED","NONE",180,184
+"DIA-GLY3","AE","DIA0281",2,"Nausea","Gastrointestinal disorders","MILD","N","RELATED","NONE",102,116
+"DIA-GLY3","AE","DIA0284",1,"Nausea","Gastrointestinal disorders","MODERATE","N","NOT RELATED","NONE",87,101
+"DIA-GLY3","AE","DIA0285",1,"Nasopharyngitis","Infections and infestations","MILD","N","NOT RELATED","NONE",65,80
+"DIA-GLY3","AE","DIA0285",2,"Nasopharyngitis","Infections and infestations","MILD","N","RELATED","NONE",48,60
+"DIA-GLY3","AE","DIA0285",3,"Dizziness","Nervous system disorders","MODERATE","N","RELATED","NONE",17,27
+"DIA-GLY3","AE","DIA0286",1,"Dizziness","Nervous system disorders","MODERATE","N","NOT RELATED","NONE",129,147
+"DIA-GLY3","AE","DIA0292",1,"Urinary tract infection","Infections and infestations","MILD","N","RELATED","NONE",27,40
+"DIA-GLY3","AE","DIA0295",1,"Urinary tract infection","Infections and infestations","MILD","N","NOT RELATED","NONE",108,116
+"DIA-GLY3","AE","DIA0297",1,"Headache","Nervous system disorders","MILD","N","RELATED","NONE",55,65
+"DIA-GLY3","AE","DIA0298",1,"Diarrhea","Gastrointestinal disorders","MILD","N","NOT RELATED","NONE",168,189
+"DIA-GLY3","AE","DIA0301",1,"Dizziness","Nervous system disorders","MODERATE","N","NOT RELATED","NONE",36,41
+"DIA-GLY3","AE","DIA0303",1,"Headache","Nervous system disorders","MILD","N","NOT RELATED","DOSE INTERRUPTED",18,35
+"DIA-GLY3","AE","DIA0303",2,"Headache","Nervous system disorders","MODERATE","N","NOT RELATED","DOSE INTERRUPTED",43,51
+"DIA-GLY3","AE","DIA0303",3,"Nausea","Gastrointestinal disorders","MILD","N","NOT RELATED","NONE",82,95
+"DIA-GLY3","AE","DIA0306",1,"Nausea","Gastrointestinal disorders","MILD","N","NOT RELATED","NONE",81,82
+"DIA-GLY3","AE","DIA0306",2,"Dizziness","Nervous system disorders","MILD","N","NOT RELATED","NONE",167,180
+"DIA-GLY3","AE","DIA0307",1,"Diarrhea","Gastrointestinal disorders","MILD","N","RELATED","NONE",35,56
+"DIA-GLY3","AE","DIA0312",1,"Nasopharyngitis","Infections and infestations","MILD","N","RELATED","DOSE INTERRUPTED",104,105
+"DIA-GLY3","AE","DIA0314",1,"Nasopharyngitis","Infections and infestations","SEVERE","N","NOT RELATED","NONE",123,127
+"DIA-GLY3","AE","DIA0314",2,"Nasopharyngitis","Infections and infestations","MILD","N","NOT RELATED","NONE",97,99
+"DIA-GLY3","AE","DIA0318",1,"Nasopharyngitis","Infections and infestations","MODERATE","N","NOT RELATED","NONE",23,32
+"DIA-GLY3","AE","DIA0319",1,"Dizziness","Nervous system disorders","MODERATE","N","NOT RELATED","NONE",25,27
+"DIA-GLY3","AE","DIA0319",2,"Urinary tract infection","Infections and infestations","MILD","N","RELATED","NONE",62,70
+"DIA-GLY3","AE","DIA0321",1,"Diarrhea","Gastrointestinal disorders","MILD","N","NOT RELATED","NONE",126,144
+"DIA-GLY3","AE","DIA0321",2,"Headache","Nervous system disorders","MILD","N","NOT RELATED","NONE",41,55
+"DIA-GLY3","AE","DIA0322",1,"Nausea","Gastrointestinal disorders","MILD","N","NOT RELATED","NONE",86,106
+"DIA-GLY3","AE","DIA0325",1,"Nasopharyngitis","Infections and infestations","MILD","N","NOT RELATED","DOSE INTERRUPTED",172,186
+"DIA-GLY3","AE","DIA0326",1,"Nausea","Gastrointestinal disorders","MODERATE","N","NOT RELATED","NONE",76,85
+"DIA-GLY3","AE","DIA0326",2,"Dizziness","Nervous system disorders","MILD","N","NOT RELATED","NONE",15,25
+"DIA-GLY3","AE","DIA0330",1,"Headache","Nervous system disorders","MILD","N","NOT RELATED","NONE",61,67
+"DIA-GLY3","AE","DIA0331",1,"Nausea","Gastrointestinal disorders","MODERATE","N","RELATED","NONE",60,66
+"DIA-GLY3","AE","DIA0332",1,"Nausea","Gastrointestinal disorders","MODERATE","N","NOT RELATED","NONE",142,152
+"DIA-GLY3","AE","DIA0333",1,"Nausea","Gastrointestinal disorders","MILD","N","RELATED","NONE",149,162
+"DIA-GLY3","AE","DIA0334",1,"Nasopharyngitis","Infections and infestations","MILD","N","NOT RELATED","NONE",129,143
+"DIA-GLY3","AE","DIA0335",1,"Nausea","Gastrointestinal disorders","MILD","N","NOT RELATED","NONE",48,59
+"DIA-GLY3","AE","DIA0347",1,"Dizziness","Nervous system disorders","MODERATE","N","NOT RELATED","DOSE INTERRUPTED",76,78
+"DIA-GLY3","AE","DIA0347",2,"Urinary tract infection","Infections and infestations","MILD","N","NOT RELATED","NONE",13,24
+"DIA-GLY3","AE","DIA0347",3,"Nausea","Gastrointestinal disorders","MILD","N","NOT RELATED","NONE",30,43
+"DIA-GLY3","AE","DIA0351",1,"Dizziness","Nervous system disorders","MODERATE","N","RELATED","NONE",68,83
+"DIA-GLY3","AE","DIA0354",1,"Headache","Nervous system disorders","MILD","N","NOT RELATED","NONE",156,163
+"DIA-GLY3","AE","DIA0354",2,"Nasopharyngitis","Infections and infestations","MILD","N","NOT RELATED","NONE",161,177
+"DIA-GLY3","AE","DIA0355",1,"Nausea","Gastrointestinal disorders","MILD","N","RELATED","DOSE INTERRUPTED",125,134
+"DIA-GLY3","AE","DIA0358",1,"Urinary tract infection","Infections and infestations","MILD","N","RELATED","NONE",148,162
+"DIA-GLY3","AE","DIA0358",2,"Nausea","Gastrointestinal disorders","SEVERE","Y","NOT RELATED","NONE",97,102
+"DIA-GLY3","AE","DIA0359",1,"Headache","Nervous system disorders","MILD","N","RELATED","DOSE INTERRUPTED",165,170
+"DIA-GLY3","AE","DIA0359",2,"Urinary tract infection","Infections and infestations","MODERATE","N","NOT RELATED","NONE",165,169
+"DIA-GLY3","AE","DIA0359",3,"Diarrhea","Gastrointestinal disorders","MODERATE","N","NOT RELATED","NONE",144,163
+"DIA-GLY3","AE","DIA0360",1,"Dizziness","Nervous system disorders","MODERATE","N","RELATED","NONE",110,112
+"DIA-GLY3","AE","DIA0361",1,"Urinary tract infection","Infections and infestations","MILD","N","RELATED","NONE",94,98
+"DIA-GLY3","AE","DIA0364",1,"Urinary tract infection","Infections and infestations","MILD","N","RELATED","NONE",23,36
+"DIA-GLY3","AE","DIA0365",1,"Urinary tract infection","Infections and infestations","MILD","N","NOT RELATED","NONE",38,56
+"DIA-GLY3","AE","DIA0368",1,"Urinary tract infection","Infections and infestations","MODERATE","N","NOT RELATED","NONE",114,115
+"DIA-GLY3","AE","DIA0369",1,"Urinary tract infection","Infections and infestations","MILD","N","NOT RELATED","NONE",189,202
+"DIA-GLY3","AE","DIA0370",1,"Diarrhea","Gastrointestinal disorders","MILD","N","RELATED","NONE",30,44
+"DIA-GLY3","AE","DIA0370",2,"Nausea","Gastrointestinal disorders","MILD","N","NOT RELATED","NONE",124,139
+"DIA-GLY3","AE","DIA0373",1,"Nausea","Gastrointestinal disorders","MILD","N","RELATED","NONE",208,227
+"DIA-GLY3","AE","DIA0374",1,"Nasopharyngitis","Infections and infestations","MODERATE","N","RELATED","NONE",43,46
+"DIA-GLY3","AE","DIA0374",2,"Nasopharyngitis","Infections and infestations","MODERATE","N","NOT RELATED","NONE",114,126
+"DIA-GLY3","AE","DIA0378",1,"Headache","Nervous system disorders","MILD","N","NOT RELATED","NONE",199,208
+"DIA-GLY3","AE","DIA0379",1,"Dizziness","Nervous system disorders","SEVERE","Y","NOT RELATED","NONE",124,143
+"DIA-GLY3","AE","DIA0380",1,"Nausea","Gastrointestinal disorders","MODERATE","N","RELATED","DOSE INTERRUPTED",1,7
+"DIA-GLY3","AE","DIA0384",1,"Dizziness","Nervous system disorders","MILD","N","NOT RELATED","NONE",205,223
+"DIA-GLY3","AE","DIA0386",1,"Headache","Nervous system disorders","MILD","N","NOT RELATED","NONE",158,173
+"DIA-GLY3","AE","DIA0389",1,"Dizziness","Nervous system disorders","MODERATE","N","NOT RELATED","NONE",127,148
+"DIA-GLY3","AE","DIA0394",1,"Nausea","Gastrointestinal disorders","MILD","N","RELATED","NONE",109,128
+"DIA-GLY3","AE","DIA0396",1,"Diarrhea","Gastrointestinal disorders","SEVERE","Y","NOT RELATED","NONE",213,217
+"DIA-GLY3","AE","DIA0398",1,"Urinary tract infection","Infections and infestations","MILD","N","NOT RELATED","NONE",194,202
+"DIA-GLY3","AE","DIA0398",2,"Urinary tract infection","Infections and infestations","MODERATE","N","NOT RELATED","NONE",120,121
+"DIA-GLY3","AE","DIA0398",3,"Headache","Nervous system disorders","MILD","N","NOT RELATED","NONE",16,28
+"DIA-GLY3","AE","DIA0399",1,"Nausea","Gastrointestinal disorders","MILD","N","NOT RELATED","NONE",85,87
+"DIA-GLY3","AE","DIA0399",2,"Diarrhea","Gastrointestinal disorders","MILD","N","NOT RELATED","NONE",125,146
+"DIA-GLY3","AE","DIA0402",1,"Urinary tract infection","Infections and infestations","MILD","N","RELATED","NONE",104,125
+"DIA-GLY3","AE","DIA0403",1,"Headache","Nervous system disorders","MILD","N","NOT RELATED","NONE",122,133
+"DIA-GLY3","AE","DIA0403",2,"Headache","Nervous system disorders","SEVERE","N","NOT RELATED","NONE",182,183
+"DIA-GLY3","AE","DIA0405",1,"Nasopharyngitis","Infections and infestations","MILD","N","NOT RELATED","NONE",104,110
+"DIA-GLY3","AE","DIA0406",1,"Nausea","Gastrointestinal disorders","MODERATE","N","NOT RELATED","DOSE INTERRUPTED",11,18
+"DIA-GLY3","AE","DIA0406",2,"Dizziness","Nervous system disorders","MILD","N","RELATED","NONE",169,187
+"DIA-GLY3","AE","DIA0408",1,"Urinary tract infection","Infections and infestations","MILD","N","RELATED","NONE",121,136
+"DIA-GLY3","AE","DIA0410",1,"Urinary tract infection","Infections and infestations","MILD","N","NOT RELATED","NONE",24,25
+"DIA-GLY3","AE","DIA0418",1,"Nasopharyngitis","Infections and infestations","MILD","N","RELATED","NONE",101,121
+"DIA-GLY3","AE","DIA0425",1,"Dizziness","Nervous system disorders","MILD","N","NOT RELATED","NONE",163,180
+"DIA-GLY3","AE","DIA0435",1,"Headache","Nervous system disorders","MILD","N","RELATED","NONE",39,57
+"DIA-GLY3","AE","DIA0437",1,"Headache","Nervous system disorders","MILD","N","RELATED","NONE",116,124
+"DIA-GLY3","AE","DIA0438",1,"Urinary tract infection","Infections and infestations","MODERATE","N","RELATED","NONE",10,28
+"DIA-GLY3","AE","DIA0439",1,"Nasopharyngitis","Infections and infestations","MILD","N","RELATED","NONE",132,137
+"DIA-GLY3","AE","DIA0441",1,"Urinary tract infection","Infections and infestations","MILD","N","NOT RELATED","NONE",48,66
+"DIA-GLY3","AE","DIA0442",1,"Nausea","Gastrointestinal disorders","MILD","N","NOT RELATED","NONE",86,100
+"DIA-GLY3","AE","DIA0442",2,"Dizziness","Nervous system disorders","MILD","N","RELATED","NONE",179,187
+"DIA-GLY3","AE","DIA0447",1,"Diarrhea","Gastrointestinal disorders","MILD","N","RELATED","NONE",36,39
+"DIA-GLY3","AE","DIA0447",2,"Nasopharyngitis","Infections and infestations","MILD","N","NOT RELATED","NONE",16,23
+"DIA-GLY3","AE","DIA0450",1,"Headache","Nervous system disorders","MILD","N","RELATED","NONE",161,165
+"DIA-GLY3","AE","DIA0451",1,"Urinary tract infection","Infections and infestations","MILD","N","NOT RELATED","NONE",27,33
+"DIA-GLY3","AE","DIA0453",1,"Dizziness","Nervous system disorders","MILD","N","NOT RELATED","NONE",173,176
+"DIA-GLY3","AE","DIA0454",1,"Headache","Nervous system disorders","MILD","N","NOT RELATED","NONE",177,184
+"DIA-GLY3","AE","DIA0454",2,"Headache","Nervous system disorders","MILD","N","NOT RELATED","NONE",190,199
+"DIA-GLY3","AE","DIA0456",1,"Diarrhea","Gastrointestinal disorders","MILD","N","NOT RELATED","NONE",87,99
+"DIA-GLY3","AE","DIA0457",1,"Urinary tract infection","Infections and infestations","MODERATE","N","NOT RELATED","NONE",74,82
+"DIA-GLY3","AE","DIA0458",1,"Diarrhea","Gastrointestinal disorders","MILD","N","RELATED","NONE",102,118
+"DIA-GLY3","AE","DIA0460",1,"Diarrhea","Gastrointestinal disorders","MILD","N","RELATED","DOSE INTERRUPTED",85,91
+"DIA-GLY3","AE","DIA0462",1,"Headache","Nervous system disorders","MILD","N","RELATED","NONE",81,88
+"DIA-GLY3","AE","DIA0466",1,"Nasopharyngitis","Infections and infestations","MILD","N","NOT RELATED","NONE",134,142
+"DIA-GLY3","AE","DIA0470",1,"Nasopharyngitis","Infections and infestations","MILD","N","NOT RELATED","NONE",15,30
+"DIA-GLY3","AE","DIA0471",1,"Headache","Nervous system disorders","MODERATE","N","NOT RELATED","NONE",24,36
+"DIA-GLY3","AE","DIA0471",2,"Nausea","Gastrointestinal disorders","MILD","N","NOT RELATED","NONE",181,196
+"DIA-GLY3","AE","DIA0472",1,"Urinary tract infection","Infections and infestations","MODERATE","N","NOT RELATED","NONE",19,25
+"DIA-GLY3","AE","DIA0474",1,"Urinary tract infection","Infections and infestations","MILD","N","NOT RELATED","NONE",62,66
+"DIA-GLY3","AE","DIA0475",1,"Headache","Nervous system disorders","MILD","N","RELATED","NONE",121,125

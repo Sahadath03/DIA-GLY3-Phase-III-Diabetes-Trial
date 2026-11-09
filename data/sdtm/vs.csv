@@ -1,0 +1,2391 @@
+"STUDYID","DOMAIN","USUBJID","VSTESTCD","VSTEST","VSSTRESN","VSSTRESU","VISIT","VISITNUM","VSSEQ"
+"DIA-GLY3","VS","DIA0001","WEIGHT","Body Weight",97.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0001","WEIGHT","Body Weight",97.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0001","WEIGHT","Body Weight",97.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0001","WEIGHT","Body Weight",97.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0001","WEIGHT","Body Weight",97.5,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0002","WEIGHT","Body Weight",101.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0002","WEIGHT","Body Weight",102.4,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0002","WEIGHT","Body Weight",101.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0002","WEIGHT","Body Weight",101.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0002","WEIGHT","Body Weight",101.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0003","WEIGHT","Body Weight",99.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0003","WEIGHT","Body Weight",99.5,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0003","WEIGHT","Body Weight",98.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0003","WEIGHT","Body Weight",98.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0003","WEIGHT","Body Weight",99,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0004","WEIGHT","Body Weight",79.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0004","WEIGHT","Body Weight",79.4,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0004","WEIGHT","Body Weight",78.7,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0004","WEIGHT","Body Weight",79,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0004","WEIGHT","Body Weight",79.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0005","WEIGHT","Body Weight",125.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0005","WEIGHT","Body Weight",124,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0005","WEIGHT","Body Weight",123.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0005","WEIGHT","Body Weight",121.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0005","WEIGHT","Body Weight",120.9,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0006","WEIGHT","Body Weight",83.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0006","WEIGHT","Body Weight",83.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0006","WEIGHT","Body Weight",82.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0006","WEIGHT","Body Weight",82.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0006","WEIGHT","Body Weight",81.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0007","WEIGHT","Body Weight",101.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0007","WEIGHT","Body Weight",101.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0007","WEIGHT","Body Weight",100.7,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0007","WEIGHT","Body Weight",100.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0007","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0008","WEIGHT","Body Weight",95.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0008","WEIGHT","Body Weight",95.3,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0008","WEIGHT","Body Weight",95.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0008","WEIGHT","Body Weight",95.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0008","WEIGHT","Body Weight",95.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0009","WEIGHT","Body Weight",94,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0009","WEIGHT","Body Weight",93.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0009","WEIGHT","Body Weight",93.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0009","WEIGHT","Body Weight",93.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0009","WEIGHT","Body Weight",91.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0010","WEIGHT","Body Weight",65.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0010","WEIGHT","Body Weight",64.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0010","WEIGHT","Body Weight",65.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0010","WEIGHT","Body Weight",64.9,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0010","WEIGHT","Body Weight",66,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0011","WEIGHT","Body Weight",67.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0011","WEIGHT","Body Weight",68.4,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0011","WEIGHT","Body Weight",69,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0011","WEIGHT","Body Weight",68.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0011","WEIGHT","Body Weight",70.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0012","WEIGHT","Body Weight",60.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0012","WEIGHT","Body Weight",60.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0012","WEIGHT","Body Weight",60.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0012","WEIGHT","Body Weight",61.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0012","WEIGHT","Body Weight",61.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0013","WEIGHT","Body Weight",79.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0013","WEIGHT","Body Weight",78.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0013","WEIGHT","Body Weight",78.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0013","WEIGHT","Body Weight",77.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0013","WEIGHT","Body Weight",77.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0014","WEIGHT","Body Weight",85.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0014","WEIGHT","Body Weight",85.4,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0014","WEIGHT","Body Weight",85.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0014","WEIGHT","Body Weight",86.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0014","WEIGHT","Body Weight",85,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0015","WEIGHT","Body Weight",95.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0015","WEIGHT","Body Weight",94.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0015","WEIGHT","Body Weight",94.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0015","WEIGHT","Body Weight",93.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0015","WEIGHT","Body Weight",92.9,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0016","WEIGHT","Body Weight",93.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0016","WEIGHT","Body Weight",93.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0016","WEIGHT","Body Weight",,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0016","WEIGHT","Body Weight",93.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0016","WEIGHT","Body Weight",92.9,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0017","WEIGHT","Body Weight",107,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0017","WEIGHT","Body Weight",106.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0017","WEIGHT","Body Weight",107.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0017","WEIGHT","Body Weight",106.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0017","WEIGHT","Body Weight",107.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0018","WEIGHT","Body Weight",103.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0018","WEIGHT","Body Weight",103.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0018","WEIGHT","Body Weight",102.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0018","WEIGHT","Body Weight",102.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0018","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0019","WEIGHT","Body Weight",94.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0019","WEIGHT","Body Weight",92.4,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0019","WEIGHT","Body Weight",93,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0019","WEIGHT","Body Weight",92.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0019","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0020","WEIGHT","Body Weight",80.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0020","WEIGHT","Body Weight",79.5,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0020","WEIGHT","Body Weight",80,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0020","WEIGHT","Body Weight",78.9,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0020","WEIGHT","Body Weight",78.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0021","WEIGHT","Body Weight",100.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0021","WEIGHT","Body Weight",100,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0021","WEIGHT","Body Weight",98.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0021","WEIGHT","Body Weight",97.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0021","WEIGHT","Body Weight",97.9,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0022","WEIGHT","Body Weight",102,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0022","WEIGHT","Body Weight",101,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0022","WEIGHT","Body Weight",100.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0022","WEIGHT","Body Weight",100.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0022","WEIGHT","Body Weight",99.6,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0023","WEIGHT","Body Weight",111.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0023","WEIGHT","Body Weight",111.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0023","WEIGHT","Body Weight",110.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0023","WEIGHT","Body Weight",110.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0023","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0024","WEIGHT","Body Weight",107.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0024","WEIGHT","Body Weight",108.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0024","WEIGHT","Body Weight",106.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0024","WEIGHT","Body Weight",106.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0024","WEIGHT","Body Weight",106.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0025","WEIGHT","Body Weight",113.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0025","WEIGHT","Body Weight",112.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0025","WEIGHT","Body Weight",112.7,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0025","WEIGHT","Body Weight",112.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0025","WEIGHT","Body Weight",112,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0026","WEIGHT","Body Weight",71.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0026","WEIGHT","Body Weight",70.5,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0026","WEIGHT","Body Weight",70.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0026","WEIGHT","Body Weight",70.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0026","WEIGHT","Body Weight",69,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0027","WEIGHT","Body Weight",112.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0027","WEIGHT","Body Weight",111.4,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0027","WEIGHT","Body Weight",111,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0027","WEIGHT","Body Weight",111,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0027","WEIGHT","Body Weight",109.6,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0028","WEIGHT","Body Weight",80.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0028","WEIGHT","Body Weight",80.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0028","WEIGHT","Body Weight",79.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0028","WEIGHT","Body Weight",79.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0028","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0029","WEIGHT","Body Weight",125,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0029","WEIGHT","Body Weight",124.5,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0029","WEIGHT","Body Weight",124.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0029","WEIGHT","Body Weight",,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0029","WEIGHT","Body Weight",123.5,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0030","WEIGHT","Body Weight",72.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0030","WEIGHT","Body Weight",71.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0030","WEIGHT","Body Weight",72.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0030","WEIGHT","Body Weight",71.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0030","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0031","WEIGHT","Body Weight",85.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0031","WEIGHT","Body Weight",85.5,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0031","WEIGHT","Body Weight",86.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0031","WEIGHT","Body Weight",85.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0031","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0032","WEIGHT","Body Weight",78,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0032","WEIGHT","Body Weight",76.5,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0032","WEIGHT","Body Weight",76.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0032","WEIGHT","Body Weight",75.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0032","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0033","WEIGHT","Body Weight",101.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0033","WEIGHT","Body Weight",101,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0033","WEIGHT","Body Weight",100.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0033","WEIGHT","Body Weight",100.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0033","WEIGHT","Body Weight",99.5,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0034","WEIGHT","Body Weight",110.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0034","WEIGHT","Body Weight",110.4,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0034","WEIGHT","Body Weight",110.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0034","WEIGHT","Body Weight",109.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0034","WEIGHT","Body Weight",109.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0035","WEIGHT","Body Weight",59.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0035","WEIGHT","Body Weight",59.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0035","WEIGHT","Body Weight",59.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0035","WEIGHT","Body Weight",58.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0035","WEIGHT","Body Weight",58.2,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0036","WEIGHT","Body Weight",66.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0036","WEIGHT","Body Weight",65.4,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0036","WEIGHT","Body Weight",66.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0036","WEIGHT","Body Weight",66.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0036","WEIGHT","Body Weight",65.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0037","WEIGHT","Body Weight",78,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0037","WEIGHT","Body Weight",78.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0037","WEIGHT","Body Weight",77.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0037","WEIGHT","Body Weight",77.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0037","WEIGHT","Body Weight",78.1,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0038","WEIGHT","Body Weight",97.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0038","WEIGHT","Body Weight",98.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0038","WEIGHT","Body Weight",98.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0038","WEIGHT","Body Weight",98.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0038","WEIGHT","Body Weight",98.2,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0039","WEIGHT","Body Weight",95.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0039","WEIGHT","Body Weight",95.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0039","WEIGHT","Body Weight",94.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0039","WEIGHT","Body Weight",94.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0039","WEIGHT","Body Weight",94,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0040","WEIGHT","Body Weight",119.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0040","WEIGHT","Body Weight",119.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0040","WEIGHT","Body Weight",119.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0040","WEIGHT","Body Weight",119.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0040","WEIGHT","Body Weight",119.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0041","WEIGHT","Body Weight",106.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0041","WEIGHT","Body Weight",105.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0041","WEIGHT","Body Weight",106.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0041","WEIGHT","Body Weight",,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0041","WEIGHT","Body Weight",103.9,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0042","WEIGHT","Body Weight",100.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0042","WEIGHT","Body Weight",101.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0042","WEIGHT","Body Weight",101,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0042","WEIGHT","Body Weight",100.9,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0042","WEIGHT","Body Weight",102.5,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0043","WEIGHT","Body Weight",108.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0043","WEIGHT","Body Weight",108.3,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0043","WEIGHT","Body Weight",108.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0043","WEIGHT","Body Weight",108.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0043","WEIGHT","Body Weight",107.5,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0044","WEIGHT","Body Weight",104.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0044","WEIGHT","Body Weight",103.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0044","WEIGHT","Body Weight",102.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0044","WEIGHT","Body Weight",101.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0044","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0045","WEIGHT","Body Weight",114,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0045","WEIGHT","Body Weight",114.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0045","WEIGHT","Body Weight",115,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0045","WEIGHT","Body Weight",115.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0045","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0046","WEIGHT","Body Weight",107,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0046","WEIGHT","Body Weight",106.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0046","WEIGHT","Body Weight",106.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0046","WEIGHT","Body Weight",105.9,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0046","WEIGHT","Body Weight",104.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0047","WEIGHT","Body Weight",94.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0047","WEIGHT","Body Weight",94.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0047","WEIGHT","Body Weight",95.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0047","WEIGHT","Body Weight",94.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0047","WEIGHT","Body Weight",93.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0048","WEIGHT","Body Weight",93.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0048","WEIGHT","Body Weight",92.5,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0048","WEIGHT","Body Weight",92.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0048","WEIGHT","Body Weight",90.9,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0048","WEIGHT","Body Weight",89.5,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0049","WEIGHT","Body Weight",102.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0049","WEIGHT","Body Weight",102,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0049","WEIGHT","Body Weight",101.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0049","WEIGHT","Body Weight",101.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0049","WEIGHT","Body Weight",100.6,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0050","WEIGHT","Body Weight",96.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0050","WEIGHT","Body Weight",96.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0050","WEIGHT","Body Weight",96.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0050","WEIGHT","Body Weight",96.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0050","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0051","WEIGHT","Body Weight",110.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0051","WEIGHT","Body Weight",110.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0051","WEIGHT","Body Weight",109.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0051","WEIGHT","Body Weight",108.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0051","WEIGHT","Body Weight",109,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0052","WEIGHT","Body Weight",67.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0052","WEIGHT","Body Weight",67.3,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0052","WEIGHT","Body Weight",66.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0052","WEIGHT","Body Weight",66.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0052","WEIGHT","Body Weight",65.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0053","WEIGHT","Body Weight",77.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0053","WEIGHT","Body Weight",,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0053","WEIGHT","Body Weight",78.7,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0053","WEIGHT","Body Weight",78.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0053","WEIGHT","Body Weight",78.9,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0054","WEIGHT","Body Weight",82.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0054","WEIGHT","Body Weight",,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0054","WEIGHT","Body Weight",82.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0054","WEIGHT","Body Weight",81.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0054","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0055","WEIGHT","Body Weight",88.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0055","WEIGHT","Body Weight",89,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0055","WEIGHT","Body Weight",88.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0055","WEIGHT","Body Weight",88.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0055","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0056","WEIGHT","Body Weight",76.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0056","WEIGHT","Body Weight",75.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0056","WEIGHT","Body Weight",75.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0056","WEIGHT","Body Weight",73.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0056","WEIGHT","Body Weight",73.2,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0057","WEIGHT","Body Weight",115.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0057","WEIGHT","Body Weight",,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0057","WEIGHT","Body Weight",113.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0057","WEIGHT","Body Weight",113.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0057","WEIGHT","Body Weight",112.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0058","WEIGHT","Body Weight",79,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0058","WEIGHT","Body Weight",78.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0058","WEIGHT","Body Weight",78.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0058","WEIGHT","Body Weight",78,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0058","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0059","WEIGHT","Body Weight",66.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0059","WEIGHT","Body Weight",65.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0059","WEIGHT","Body Weight",65.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0059","WEIGHT","Body Weight",64.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0059","WEIGHT","Body Weight",63.6,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0060","WEIGHT","Body Weight",71.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0060","WEIGHT","Body Weight",71.4,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0060","WEIGHT","Body Weight",71.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0060","WEIGHT","Body Weight",71.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0060","WEIGHT","Body Weight",71.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0061","WEIGHT","Body Weight",119,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0061","WEIGHT","Body Weight",118.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0061","WEIGHT","Body Weight",118.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0061","WEIGHT","Body Weight",117.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0061","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0062","WEIGHT","Body Weight",98.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0062","WEIGHT","Body Weight",96.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0062","WEIGHT","Body Weight",96.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0062","WEIGHT","Body Weight",,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0062","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0063","WEIGHT","Body Weight",76.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0063","WEIGHT","Body Weight",77.5,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0063","WEIGHT","Body Weight",78.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0063","WEIGHT","Body Weight",79,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0063","WEIGHT","Body Weight",80.5,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0064","WEIGHT","Body Weight",92.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0064","WEIGHT","Body Weight",91.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0064","WEIGHT","Body Weight",91.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0064","WEIGHT","Body Weight",90.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0064","WEIGHT","Body Weight",89.5,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0065","WEIGHT","Body Weight",80.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0065","WEIGHT","Body Weight",80.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0065","WEIGHT","Body Weight",80.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0065","WEIGHT","Body Weight",80,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0065","WEIGHT","Body Weight",79.2,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0066","WEIGHT","Body Weight",88.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0066","WEIGHT","Body Weight",89.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0066","WEIGHT","Body Weight",90.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0066","WEIGHT","Body Weight",90.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0066","WEIGHT","Body Weight",91.1,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0067","WEIGHT","Body Weight",99.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0067","WEIGHT","Body Weight",97.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0067","WEIGHT","Body Weight",98.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0067","WEIGHT","Body Weight",97.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0067","WEIGHT","Body Weight",97,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0068","WEIGHT","Body Weight",66.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0068","WEIGHT","Body Weight",66.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0068","WEIGHT","Body Weight",65.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0068","WEIGHT","Body Weight",64.9,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0068","WEIGHT","Body Weight",65.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0069","WEIGHT","Body Weight",75.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0069","WEIGHT","Body Weight",76.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0069","WEIGHT","Body Weight",75.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0069","WEIGHT","Body Weight",75.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0069","WEIGHT","Body Weight",76.5,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0070","WEIGHT","Body Weight",74.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0070","WEIGHT","Body Weight",73.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0070","WEIGHT","Body Weight",73.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0070","WEIGHT","Body Weight",72.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0070","WEIGHT","Body Weight",72.5,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0071","WEIGHT","Body Weight",122.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0071","WEIGHT","Body Weight",121.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0071","WEIGHT","Body Weight",120.7,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0071","WEIGHT","Body Weight",120.9,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0071","WEIGHT","Body Weight",120.6,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0072","WEIGHT","Body Weight",86.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0072","WEIGHT","Body Weight",85.4,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0072","WEIGHT","Body Weight",84.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0072","WEIGHT","Body Weight",83.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0072","WEIGHT","Body Weight",82.1,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0073","WEIGHT","Body Weight",82.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0073","WEIGHT","Body Weight",82.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0073","WEIGHT","Body Weight",82.7,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0073","WEIGHT","Body Weight",82.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0073","WEIGHT","Body Weight",81.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0074","WEIGHT","Body Weight",59.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0074","WEIGHT","Body Weight",59.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0074","WEIGHT","Body Weight",59.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0074","WEIGHT","Body Weight",,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0074","WEIGHT","Body Weight",58.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0075","WEIGHT","Body Weight",98.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0075","WEIGHT","Body Weight",97.3,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0075","WEIGHT","Body Weight",96.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0075","WEIGHT","Body Weight",96.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0075","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0076","WEIGHT","Body Weight",91.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0076","WEIGHT","Body Weight",90.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0076","WEIGHT","Body Weight",90.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0076","WEIGHT","Body Weight",89,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0076","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0077","WEIGHT","Body Weight",96.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0077","WEIGHT","Body Weight",95.5,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0077","WEIGHT","Body Weight",96.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0077","WEIGHT","Body Weight",95.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0077","WEIGHT","Body Weight",94.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0078","WEIGHT","Body Weight",104.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0078","WEIGHT","Body Weight",,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0078","WEIGHT","Body Weight",102.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0078","WEIGHT","Body Weight",102.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0078","WEIGHT","Body Weight",102.1,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0079","WEIGHT","Body Weight",61.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0079","WEIGHT","Body Weight",62.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0079","WEIGHT","Body Weight",62.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0079","WEIGHT","Body Weight",63,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0079","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0080","WEIGHT","Body Weight",75.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0080","WEIGHT","Body Weight",74.3,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0080","WEIGHT","Body Weight",75.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0080","WEIGHT","Body Weight",74,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0080","WEIGHT","Body Weight",73.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0081","WEIGHT","Body Weight",79.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0081","WEIGHT","Body Weight",79.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0081","WEIGHT","Body Weight",79.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0081","WEIGHT","Body Weight",79,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0081","WEIGHT","Body Weight",78.9,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0082","WEIGHT","Body Weight",93.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0082","WEIGHT","Body Weight",93,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0082","WEIGHT","Body Weight",94.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0082","WEIGHT","Body Weight",93,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0082","WEIGHT","Body Weight",92.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0083","WEIGHT","Body Weight",122.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0083","WEIGHT","Body Weight",123.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0083","WEIGHT","Body Weight",123.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0083","WEIGHT","Body Weight",123.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0083","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0084","WEIGHT","Body Weight",100.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0084","WEIGHT","Body Weight",101.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0084","WEIGHT","Body Weight",100.7,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0084","WEIGHT","Body Weight",100.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0084","WEIGHT","Body Weight",100.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0085","WEIGHT","Body Weight",93.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0085","WEIGHT","Body Weight",93.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0085","WEIGHT","Body Weight",94,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0085","WEIGHT","Body Weight",95.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0085","WEIGHT","Body Weight",95.2,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0086","WEIGHT","Body Weight",107.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0086","WEIGHT","Body Weight",108.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0086","WEIGHT","Body Weight",109,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0086","WEIGHT","Body Weight",108.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0086","WEIGHT","Body Weight",109.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0087","WEIGHT","Body Weight",71.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0087","WEIGHT","Body Weight",,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0087","WEIGHT","Body Weight",71.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0087","WEIGHT","Body Weight",71.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0087","WEIGHT","Body Weight",71.1,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0088","WEIGHT","Body Weight",85.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0088","WEIGHT","Body Weight",85.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0088","WEIGHT","Body Weight",85.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0088","WEIGHT","Body Weight",85.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0088","WEIGHT","Body Weight",86,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0089","WEIGHT","Body Weight",95.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0089","WEIGHT","Body Weight",96,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0089","WEIGHT","Body Weight",95.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0089","WEIGHT","Body Weight",94.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0089","WEIGHT","Body Weight",94.9,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0090","WEIGHT","Body Weight",78.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0090","WEIGHT","Body Weight",79.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0090","WEIGHT","Body Weight",78.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0090","WEIGHT","Body Weight",79.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0090","WEIGHT","Body Weight",78.6,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0091","WEIGHT","Body Weight",50.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0091","WEIGHT","Body Weight",50.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0091","WEIGHT","Body Weight",49.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0091","WEIGHT","Body Weight",48.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0091","WEIGHT","Body Weight",48,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0092","WEIGHT","Body Weight",91.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0092","WEIGHT","Body Weight",90.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0092","WEIGHT","Body Weight",90.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0092","WEIGHT","Body Weight",89.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0092","WEIGHT","Body Weight",89,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0093","WEIGHT","Body Weight",61.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0093","WEIGHT","Body Weight",61.3,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0093","WEIGHT","Body Weight",61.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0093","WEIGHT","Body Weight",61.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0093","WEIGHT","Body Weight",61.5,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0094","WEIGHT","Body Weight",65.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0094","WEIGHT","Body Weight",66.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0094","WEIGHT","Body Weight",66.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0094","WEIGHT","Body Weight",67.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0094","WEIGHT","Body Weight",67,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0095","WEIGHT","Body Weight",80.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0095","WEIGHT","Body Weight",79.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0095","WEIGHT","Body Weight",80.7,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0095","WEIGHT","Body Weight",79.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0095","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0096","WEIGHT","Body Weight",77.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0096","WEIGHT","Body Weight",77.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0096","WEIGHT","Body Weight",76.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0096","WEIGHT","Body Weight",76,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0096","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0097","WEIGHT","Body Weight",81.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0097","WEIGHT","Body Weight",81.5,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0097","WEIGHT","Body Weight",79.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0097","WEIGHT","Body Weight",79.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0097","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0098","WEIGHT","Body Weight",58.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0098","WEIGHT","Body Weight",58.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0098","WEIGHT","Body Weight",58.7,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0098","WEIGHT","Body Weight",58.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0098","WEIGHT","Body Weight",58.5,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0099","WEIGHT","Body Weight",75.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0099","WEIGHT","Body Weight",76.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0099","WEIGHT","Body Weight",75.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0099","WEIGHT","Body Weight",75.9,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0099","WEIGHT","Body Weight",75.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0100","WEIGHT","Body Weight",98.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0100","WEIGHT","Body Weight",97.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0100","WEIGHT","Body Weight",97.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0100","WEIGHT","Body Weight",96.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0100","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0101","WEIGHT","Body Weight",49.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0101","WEIGHT","Body Weight",48.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0101","WEIGHT","Body Weight",48,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0101","WEIGHT","Body Weight",47.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0101","WEIGHT","Body Weight",46.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0102","WEIGHT","Body Weight",86.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0102","WEIGHT","Body Weight",86.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0102","WEIGHT","Body Weight",86.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0102","WEIGHT","Body Weight",86.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0102","WEIGHT","Body Weight",86.1,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0103","WEIGHT","Body Weight",80.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0103","WEIGHT","Body Weight",80.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0103","WEIGHT","Body Weight",80.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0103","WEIGHT","Body Weight",80.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0103","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0104","WEIGHT","Body Weight",97.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0104","WEIGHT","Body Weight",96.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0104","WEIGHT","Body Weight",96.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0104","WEIGHT","Body Weight",95.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0104","WEIGHT","Body Weight",95.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0105","WEIGHT","Body Weight",75.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0105","WEIGHT","Body Weight",,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0105","WEIGHT","Body Weight",74.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0105","WEIGHT","Body Weight",73.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0105","WEIGHT","Body Weight",73.5,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0106","WEIGHT","Body Weight",65.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0106","WEIGHT","Body Weight",65.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0106","WEIGHT","Body Weight",65,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0106","WEIGHT","Body Weight",64.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0106","WEIGHT","Body Weight",62.9,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0107","WEIGHT","Body Weight",96.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0107","WEIGHT","Body Weight",96.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0107","WEIGHT","Body Weight",96.7,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0107","WEIGHT","Body Weight",96,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0107","WEIGHT","Body Weight",95.6,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0108","WEIGHT","Body Weight",80.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0108","WEIGHT","Body Weight",80.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0108","WEIGHT","Body Weight",79.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0108","WEIGHT","Body Weight",79,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0108","WEIGHT","Body Weight",78.2,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0109","WEIGHT","Body Weight",69.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0109","WEIGHT","Body Weight",70.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0109","WEIGHT","Body Weight",71.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0109","WEIGHT","Body Weight",71.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0109","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0110","WEIGHT","Body Weight",66.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0110","WEIGHT","Body Weight",65.4,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0110","WEIGHT","Body Weight",64.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0110","WEIGHT","Body Weight",64.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0110","WEIGHT","Body Weight",62.9,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0111","WEIGHT","Body Weight",78.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0111","WEIGHT","Body Weight",79.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0111","WEIGHT","Body Weight",77.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0111","WEIGHT","Body Weight",77,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0111","WEIGHT","Body Weight",77.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0112","WEIGHT","Body Weight",93.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0112","WEIGHT","Body Weight",93.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0112","WEIGHT","Body Weight",93.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0112","WEIGHT","Body Weight",93.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0112","WEIGHT","Body Weight",94.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0113","WEIGHT","Body Weight",118.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0113","WEIGHT","Body Weight",117.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0113","WEIGHT","Body Weight",117,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0113","WEIGHT","Body Weight",117,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0113","WEIGHT","Body Weight",115.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0114","WEIGHT","Body Weight",82.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0114","WEIGHT","Body Weight",82.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0114","WEIGHT","Body Weight",82.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0114","WEIGHT","Body Weight",,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0114","WEIGHT","Body Weight",81.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0115","WEIGHT","Body Weight",94.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0115","WEIGHT","Body Weight",93.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0115","WEIGHT","Body Weight",94.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0115","WEIGHT","Body Weight",,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0115","WEIGHT","Body Weight",93.5,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0116","WEIGHT","Body Weight",107.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0116","WEIGHT","Body Weight",106.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0116","WEIGHT","Body Weight",106.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0116","WEIGHT","Body Weight",105,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0116","WEIGHT","Body Weight",104.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0117","WEIGHT","Body Weight",74.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0117","WEIGHT","Body Weight",75.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0117","WEIGHT","Body Weight",74.7,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0117","WEIGHT","Body Weight",75.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0117","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0118","WEIGHT","Body Weight",126.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0118","WEIGHT","Body Weight",126.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0118","WEIGHT","Body Weight",,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0118","WEIGHT","Body Weight",125.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0118","WEIGHT","Body Weight",125.6,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0119","WEIGHT","Body Weight",99.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0119","WEIGHT","Body Weight",99.4,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0119","WEIGHT","Body Weight",99.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0119","WEIGHT","Body Weight",99.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0119","WEIGHT","Body Weight",99.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0120","WEIGHT","Body Weight",55.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0120","WEIGHT","Body Weight",55.4,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0120","WEIGHT","Body Weight",54.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0120","WEIGHT","Body Weight",53.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0120","WEIGHT","Body Weight",52.5,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0121","WEIGHT","Body Weight",99.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0121","WEIGHT","Body Weight",99.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0121","WEIGHT","Body Weight",99.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0121","WEIGHT","Body Weight",100.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0121","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0122","WEIGHT","Body Weight",78,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0122","WEIGHT","Body Weight",77.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0122","WEIGHT","Body Weight",77.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0122","WEIGHT","Body Weight",75.9,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0122","WEIGHT","Body Weight",75.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0123","WEIGHT","Body Weight",101.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0123","WEIGHT","Body Weight",102,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0123","WEIGHT","Body Weight",102,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0123","WEIGHT","Body Weight",102.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0123","WEIGHT","Body Weight",102.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0124","WEIGHT","Body Weight",89.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0124","WEIGHT","Body Weight",89.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0124","WEIGHT","Body Weight",,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0124","WEIGHT","Body Weight",89.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0124","WEIGHT","Body Weight",89.2,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0125","WEIGHT","Body Weight",105.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0125","WEIGHT","Body Weight",104.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0125","WEIGHT","Body Weight",105.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0125","WEIGHT","Body Weight",104.9,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0125","WEIGHT","Body Weight",104.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0126","WEIGHT","Body Weight",79.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0126","WEIGHT","Body Weight",79.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0126","WEIGHT","Body Weight",79.7,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0126","WEIGHT","Body Weight",79.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0126","WEIGHT","Body Weight",79.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0127","WEIGHT","Body Weight",69.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0127","WEIGHT","Body Weight",69.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0127","WEIGHT","Body Weight",68.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0127","WEIGHT","Body Weight",67.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0127","WEIGHT","Body Weight",67.9,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0128","WEIGHT","Body Weight",98.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0128","WEIGHT","Body Weight",98.4,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0128","WEIGHT","Body Weight",98.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0128","WEIGHT","Body Weight",98.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0128","WEIGHT","Body Weight",98.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0129","WEIGHT","Body Weight",58.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0129","WEIGHT","Body Weight",57.5,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0129","WEIGHT","Body Weight",57.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0129","WEIGHT","Body Weight",56.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0129","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0130","WEIGHT","Body Weight",80.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0130","WEIGHT","Body Weight",79.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0130","WEIGHT","Body Weight",,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0130","WEIGHT","Body Weight",80.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0130","WEIGHT","Body Weight",80.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0131","WEIGHT","Body Weight",92.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0131","WEIGHT","Body Weight",91.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0131","WEIGHT","Body Weight",90.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0131","WEIGHT","Body Weight",90.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0131","WEIGHT","Body Weight",88.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0132","WEIGHT","Body Weight",93.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0132","WEIGHT","Body Weight",93.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0132","WEIGHT","Body Weight",93.7,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0132","WEIGHT","Body Weight",94.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0132","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0133","WEIGHT","Body Weight",106.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0133","WEIGHT","Body Weight",106.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0133","WEIGHT","Body Weight",,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0133","WEIGHT","Body Weight",106.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0133","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0134","WEIGHT","Body Weight",106.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0134","WEIGHT","Body Weight",107.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0134","WEIGHT","Body Weight",106.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0134","WEIGHT","Body Weight",107.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0134","WEIGHT","Body Weight",108.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0135","WEIGHT","Body Weight",69.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0135","WEIGHT","Body Weight",69,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0135","WEIGHT","Body Weight",69.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0135","WEIGHT","Body Weight",68.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0135","WEIGHT","Body Weight",67.9,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0136","WEIGHT","Body Weight",63.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0136","WEIGHT","Body Weight",,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0136","WEIGHT","Body Weight",64,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0136","WEIGHT","Body Weight",63.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0136","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0137","WEIGHT","Body Weight",89.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0137","WEIGHT","Body Weight",88.5,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0137","WEIGHT","Body Weight",88.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0137","WEIGHT","Body Weight",87.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0137","WEIGHT","Body Weight",88.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0138","WEIGHT","Body Weight",111.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0138","WEIGHT","Body Weight",111.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0138","WEIGHT","Body Weight",112.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0138","WEIGHT","Body Weight",112.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0138","WEIGHT","Body Weight",113.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0139","WEIGHT","Body Weight",114.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0139","WEIGHT","Body Weight",114.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0139","WEIGHT","Body Weight",114.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0139","WEIGHT","Body Weight",114,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0139","WEIGHT","Body Weight",114.5,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0140","WEIGHT","Body Weight",94.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0140","WEIGHT","Body Weight",94,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0140","WEIGHT","Body Weight",93.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0140","WEIGHT","Body Weight",93.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0140","WEIGHT","Body Weight",92.6,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0141","WEIGHT","Body Weight",78.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0141","WEIGHT","Body Weight",78.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0141","WEIGHT","Body Weight",78.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0141","WEIGHT","Body Weight",78.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0141","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0142","WEIGHT","Body Weight",93.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0142","WEIGHT","Body Weight",93.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0142","WEIGHT","Body Weight",93.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0142","WEIGHT","Body Weight",92.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0142","WEIGHT","Body Weight",92.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0143","WEIGHT","Body Weight",82.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0143","WEIGHT","Body Weight",82.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0143","WEIGHT","Body Weight",83.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0143","WEIGHT","Body Weight",83.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0143","WEIGHT","Body Weight",83.2,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0144","WEIGHT","Body Weight",66.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0144","WEIGHT","Body Weight",64.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0144","WEIGHT","Body Weight",63.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0144","WEIGHT","Body Weight",62.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0144","WEIGHT","Body Weight",60.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0145","WEIGHT","Body Weight",99.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0145","WEIGHT","Body Weight",99,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0145","WEIGHT","Body Weight",99,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0145","WEIGHT","Body Weight",98.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0145","WEIGHT","Body Weight",98.1,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0146","WEIGHT","Body Weight",104.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0146","WEIGHT","Body Weight",103.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0146","WEIGHT","Body Weight",104.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0146","WEIGHT","Body Weight",104.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0146","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0147","WEIGHT","Body Weight",55.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0147","WEIGHT","Body Weight",54.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0147","WEIGHT","Body Weight",53.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0147","WEIGHT","Body Weight",52.9,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0147","WEIGHT","Body Weight",52,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0148","WEIGHT","Body Weight",98.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0148","WEIGHT","Body Weight",97.4,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0148","WEIGHT","Body Weight",97.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0148","WEIGHT","Body Weight",96.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0148","WEIGHT","Body Weight",96.2,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0149","WEIGHT","Body Weight",80,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0149","WEIGHT","Body Weight",79,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0149","WEIGHT","Body Weight",78.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0149","WEIGHT","Body Weight",78.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0149","WEIGHT","Body Weight",78.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0150","WEIGHT","Body Weight",82.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0150","WEIGHT","Body Weight",83.3,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0150","WEIGHT","Body Weight",82.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0150","WEIGHT","Body Weight",83.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0150","WEIGHT","Body Weight",83.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0151","WEIGHT","Body Weight",82,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0151","WEIGHT","Body Weight",80.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0151","WEIGHT","Body Weight",79.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0151","WEIGHT","Body Weight",79.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0151","WEIGHT","Body Weight",77.5,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0152","WEIGHT","Body Weight",84.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0152","WEIGHT","Body Weight",83,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0152","WEIGHT","Body Weight",83.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0152","WEIGHT","Body Weight",82.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0152","WEIGHT","Body Weight",81,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0153","WEIGHT","Body Weight",80.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0153","WEIGHT","Body Weight",81.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0153","WEIGHT","Body Weight",81.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0153","WEIGHT","Body Weight",81.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0153","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0154","WEIGHT","Body Weight",99.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0154","WEIGHT","Body Weight",99.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0154","WEIGHT","Body Weight",98.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0154","WEIGHT","Body Weight",97.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0154","WEIGHT","Body Weight",95.6,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0155","WEIGHT","Body Weight",72.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0155","WEIGHT","Body Weight",73.5,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0155","WEIGHT","Body Weight",73,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0155","WEIGHT","Body Weight",72.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0155","WEIGHT","Body Weight",72.6,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0156","WEIGHT","Body Weight",106.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0156","WEIGHT","Body Weight",106.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0156","WEIGHT","Body Weight",107.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0156","WEIGHT","Body Weight",,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0156","WEIGHT","Body Weight",106.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0157","WEIGHT","Body Weight",71,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0157","WEIGHT","Body Weight",72.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0157","WEIGHT","Body Weight",71.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0157","WEIGHT","Body Weight",73.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0157","WEIGHT","Body Weight",73.9,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0158","WEIGHT","Body Weight",85,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0158","WEIGHT","Body Weight",83.3,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0158","WEIGHT","Body Weight",83.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0158","WEIGHT","Body Weight",83.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0158","WEIGHT","Body Weight",81.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0159","WEIGHT","Body Weight",78.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0159","WEIGHT","Body Weight",78.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0159","WEIGHT","Body Weight",77.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0159","WEIGHT","Body Weight",77.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0159","WEIGHT","Body Weight",77.5,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0160","WEIGHT","Body Weight",94.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0160","WEIGHT","Body Weight",95.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0160","WEIGHT","Body Weight",94.7,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0160","WEIGHT","Body Weight",,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0160","WEIGHT","Body Weight",96.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0161","WEIGHT","Body Weight",108,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0161","WEIGHT","Body Weight",108,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0161","WEIGHT","Body Weight",107.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0161","WEIGHT","Body Weight",108.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0161","WEIGHT","Body Weight",108.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0162","WEIGHT","Body Weight",86.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0162","WEIGHT","Body Weight",86.4,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0162","WEIGHT","Body Weight",85.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0162","WEIGHT","Body Weight",86.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0162","WEIGHT","Body Weight",85.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0163","WEIGHT","Body Weight",88.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0163","WEIGHT","Body Weight",87.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0163","WEIGHT","Body Weight",87,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0163","WEIGHT","Body Weight",86,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0163","WEIGHT","Body Weight",85,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0164","WEIGHT","Body Weight",89.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0164","WEIGHT","Body Weight",89.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0164","WEIGHT","Body Weight",88.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0164","WEIGHT","Body Weight",89.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0164","WEIGHT","Body Weight",88.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0165","WEIGHT","Body Weight",101.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0165","WEIGHT","Body Weight",101.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0165","WEIGHT","Body Weight",101,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0165","WEIGHT","Body Weight",99,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0165","WEIGHT","Body Weight",98.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0166","WEIGHT","Body Weight",112.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0166","WEIGHT","Body Weight",112.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0166","WEIGHT","Body Weight",112,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0166","WEIGHT","Body Weight",112.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0166","WEIGHT","Body Weight",111.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0167","WEIGHT","Body Weight",111.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0167","WEIGHT","Body Weight",110.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0167","WEIGHT","Body Weight",111,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0167","WEIGHT","Body Weight",110.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0167","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0168","WEIGHT","Body Weight",86.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0168","WEIGHT","Body Weight",86.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0168","WEIGHT","Body Weight",86,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0168","WEIGHT","Body Weight",85.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0168","WEIGHT","Body Weight",85.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0169","WEIGHT","Body Weight",86.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0169","WEIGHT","Body Weight",85.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0169","WEIGHT","Body Weight",85.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0169","WEIGHT","Body Weight",83.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0169","WEIGHT","Body Weight",82.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0170","WEIGHT","Body Weight",95.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0170","WEIGHT","Body Weight",95.5,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0170","WEIGHT","Body Weight",94.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0170","WEIGHT","Body Weight",95.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0170","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0171","WEIGHT","Body Weight",78.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0171","WEIGHT","Body Weight",77.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0171","WEIGHT","Body Weight",77.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0171","WEIGHT","Body Weight",76.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0171","WEIGHT","Body Weight",77.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0172","WEIGHT","Body Weight",80,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0172","WEIGHT","Body Weight",78.5,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0172","WEIGHT","Body Weight",78.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0172","WEIGHT","Body Weight",76.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0172","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0173","WEIGHT","Body Weight",78.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0173","WEIGHT","Body Weight",78.5,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0173","WEIGHT","Body Weight",78.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0173","WEIGHT","Body Weight",79.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0173","WEIGHT","Body Weight",78.5,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0174","WEIGHT","Body Weight",60,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0174","WEIGHT","Body Weight",59,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0174","WEIGHT","Body Weight",59,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0174","WEIGHT","Body Weight",,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0174","WEIGHT","Body Weight",57.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0175","WEIGHT","Body Weight",85.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0175","WEIGHT","Body Weight",85,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0175","WEIGHT","Body Weight",84.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0175","WEIGHT","Body Weight",84.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0175","WEIGHT","Body Weight",84.2,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0176","WEIGHT","Body Weight",73.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0176","WEIGHT","Body Weight",73.5,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0176","WEIGHT","Body Weight",73.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0176","WEIGHT","Body Weight",73.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0176","WEIGHT","Body Weight",73,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0177","WEIGHT","Body Weight",79.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0177","WEIGHT","Body Weight",79.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0177","WEIGHT","Body Weight",79.7,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0177","WEIGHT","Body Weight",78.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0177","WEIGHT","Body Weight",78.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0178","WEIGHT","Body Weight",92.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0178","WEIGHT","Body Weight",92.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0178","WEIGHT","Body Weight",92.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0178","WEIGHT","Body Weight",91.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0178","WEIGHT","Body Weight",91.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0179","WEIGHT","Body Weight",81.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0179","WEIGHT","Body Weight",80.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0179","WEIGHT","Body Weight",79.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0179","WEIGHT","Body Weight",79.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0179","WEIGHT","Body Weight",78.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0180","WEIGHT","Body Weight",80.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0180","WEIGHT","Body Weight",79.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0180","WEIGHT","Body Weight",79.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0180","WEIGHT","Body Weight",77.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0180","WEIGHT","Body Weight",77.2,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0181","WEIGHT","Body Weight",57.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0181","WEIGHT","Body Weight",56.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0181","WEIGHT","Body Weight",56,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0181","WEIGHT","Body Weight",55.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0181","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0182","WEIGHT","Body Weight",84.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0182","WEIGHT","Body Weight",84.3,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0182","WEIGHT","Body Weight",83.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0182","WEIGHT","Body Weight",83.9,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0182","WEIGHT","Body Weight",83.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0183","WEIGHT","Body Weight",71.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0183","WEIGHT","Body Weight",70.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0183","WEIGHT","Body Weight",69.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0183","WEIGHT","Body Weight",69,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0183","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0184","WEIGHT","Body Weight",84.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0184","WEIGHT","Body Weight",83.4,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0184","WEIGHT","Body Weight",83.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0184","WEIGHT","Body Weight",83.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0184","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0185","WEIGHT","Body Weight",85.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0185","WEIGHT","Body Weight",84.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0185","WEIGHT","Body Weight",83.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0185","WEIGHT","Body Weight",82.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0185","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0186","WEIGHT","Body Weight",86.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0186","WEIGHT","Body Weight",86,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0186","WEIGHT","Body Weight",86.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0186","WEIGHT","Body Weight",86.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0186","WEIGHT","Body Weight",86.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0187","WEIGHT","Body Weight",78.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0187","WEIGHT","Body Weight",77.3,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0187","WEIGHT","Body Weight",76.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0187","WEIGHT","Body Weight",76,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0187","WEIGHT","Body Weight",75,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0188","WEIGHT","Body Weight",97.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0188","WEIGHT","Body Weight",97.3,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0188","WEIGHT","Body Weight",98.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0188","WEIGHT","Body Weight",97.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0188","WEIGHT","Body Weight",97.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0189","WEIGHT","Body Weight",86.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0189","WEIGHT","Body Weight",86.5,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0189","WEIGHT","Body Weight",86.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0189","WEIGHT","Body Weight",,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0189","WEIGHT","Body Weight",86.9,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0190","WEIGHT","Body Weight",63.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0190","WEIGHT","Body Weight",62,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0190","WEIGHT","Body Weight",61.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0190","WEIGHT","Body Weight",61.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0190","WEIGHT","Body Weight",61.6,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0191","WEIGHT","Body Weight",80.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0191","WEIGHT","Body Weight",81.3,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0191","WEIGHT","Body Weight",81.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0191","WEIGHT","Body Weight",82.9,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0191","WEIGHT","Body Weight",82.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0192","WEIGHT","Body Weight",101.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0192","WEIGHT","Body Weight",100.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0192","WEIGHT","Body Weight",100.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0192","WEIGHT","Body Weight",,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0192","WEIGHT","Body Weight",99,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0193","WEIGHT","Body Weight",68.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0193","WEIGHT","Body Weight",68.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0193","WEIGHT","Body Weight",68,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0193","WEIGHT","Body Weight",68.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0193","WEIGHT","Body Weight",67.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0194","WEIGHT","Body Weight",70.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0194","WEIGHT","Body Weight",69.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0194","WEIGHT","Body Weight",69.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0194","WEIGHT","Body Weight",69.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0194","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0195","WEIGHT","Body Weight",120.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0195","WEIGHT","Body Weight",119.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0195","WEIGHT","Body Weight",118.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0195","WEIGHT","Body Weight",118.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0195","WEIGHT","Body Weight",117,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0196","WEIGHT","Body Weight",115.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0196","WEIGHT","Body Weight",114.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0196","WEIGHT","Body Weight",,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0196","WEIGHT","Body Weight",111.9,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0196","WEIGHT","Body Weight",111.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0197","WEIGHT","Body Weight",90.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0197","WEIGHT","Body Weight",92.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0197","WEIGHT","Body Weight",93,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0197","WEIGHT","Body Weight",93.9,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0197","WEIGHT","Body Weight",95.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0198","WEIGHT","Body Weight",96,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0198","WEIGHT","Body Weight",94.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0198","WEIGHT","Body Weight",94.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0198","WEIGHT","Body Weight",93.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0198","WEIGHT","Body Weight",92.1,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0199","WEIGHT","Body Weight",82.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0199","WEIGHT","Body Weight",82.3,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0199","WEIGHT","Body Weight",82.7,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0199","WEIGHT","Body Weight",82.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0199","WEIGHT","Body Weight",82.6,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0200","WEIGHT","Body Weight",96.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0200","WEIGHT","Body Weight",96.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0200","WEIGHT","Body Weight",,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0200","WEIGHT","Body Weight",95.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0200","WEIGHT","Body Weight",95.6,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0201","WEIGHT","Body Weight",82.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0201","WEIGHT","Body Weight",83,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0201","WEIGHT","Body Weight",82.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0201","WEIGHT","Body Weight",82.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0201","WEIGHT","Body Weight",83.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0202","WEIGHT","Body Weight",76,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0202","WEIGHT","Body Weight",75.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0202","WEIGHT","Body Weight",74.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0202","WEIGHT","Body Weight",74.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0202","WEIGHT","Body Weight",72.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0203","WEIGHT","Body Weight",98.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0203","WEIGHT","Body Weight",97.5,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0203","WEIGHT","Body Weight",96.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0203","WEIGHT","Body Weight",,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0203","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0204","WEIGHT","Body Weight",83.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0204","WEIGHT","Body Weight",81.5,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0204","WEIGHT","Body Weight",82.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0204","WEIGHT","Body Weight",81.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0204","WEIGHT","Body Weight",79.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0205","WEIGHT","Body Weight",109.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0205","WEIGHT","Body Weight",108.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0205","WEIGHT","Body Weight",108.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0205","WEIGHT","Body Weight",108.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0205","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0206","WEIGHT","Body Weight",99.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0206","WEIGHT","Body Weight",100,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0206","WEIGHT","Body Weight",101.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0206","WEIGHT","Body Weight",100.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0206","WEIGHT","Body Weight",102,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0207","WEIGHT","Body Weight",101.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0207","WEIGHT","Body Weight",101.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0207","WEIGHT","Body Weight",100.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0207","WEIGHT","Body Weight",99.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0207","WEIGHT","Body Weight",98.6,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0208","WEIGHT","Body Weight",81.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0208","WEIGHT","Body Weight",80.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0208","WEIGHT","Body Weight",,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0208","WEIGHT","Body Weight",79.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0208","WEIGHT","Body Weight",78.1,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0209","WEIGHT","Body Weight",65,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0209","WEIGHT","Body Weight",64.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0209","WEIGHT","Body Weight",64.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0209","WEIGHT","Body Weight",62.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0209","WEIGHT","Body Weight",62.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0210","WEIGHT","Body Weight",75.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0210","WEIGHT","Body Weight",74.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0210","WEIGHT","Body Weight",73.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0210","WEIGHT","Body Weight",72.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0210","WEIGHT","Body Weight",70.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0211","WEIGHT","Body Weight",58.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0211","WEIGHT","Body Weight",57,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0211","WEIGHT","Body Weight",58.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0211","WEIGHT","Body Weight",57.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0211","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0212","WEIGHT","Body Weight",85.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0212","WEIGHT","Body Weight",,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0212","WEIGHT","Body Weight",86,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0212","WEIGHT","Body Weight",86,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0212","WEIGHT","Body Weight",85.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0213","WEIGHT","Body Weight",87.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0213","WEIGHT","Body Weight",88.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0213","WEIGHT","Body Weight",86.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0213","WEIGHT","Body Weight",87.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0213","WEIGHT","Body Weight",87.6,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0214","WEIGHT","Body Weight",104.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0214","WEIGHT","Body Weight",103.4,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0214","WEIGHT","Body Weight",,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0214","WEIGHT","Body Weight",103.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0214","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0215","WEIGHT","Body Weight",95.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0215","WEIGHT","Body Weight",94.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0215","WEIGHT","Body Weight",94.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0215","WEIGHT","Body Weight",94.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0215","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0216","WEIGHT","Body Weight",101.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0216","WEIGHT","Body Weight",100.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0216","WEIGHT","Body Weight",100.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0216","WEIGHT","Body Weight",99.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0216","WEIGHT","Body Weight",98.9,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0217","WEIGHT","Body Weight",91.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0217","WEIGHT","Body Weight",91.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0217","WEIGHT","Body Weight",91.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0217","WEIGHT","Body Weight",91.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0217","WEIGHT","Body Weight",91.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0218","WEIGHT","Body Weight",68.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0218","WEIGHT","Body Weight",66.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0218","WEIGHT","Body Weight",65.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0218","WEIGHT","Body Weight",65.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0218","WEIGHT","Body Weight",64.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0219","WEIGHT","Body Weight",83.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0219","WEIGHT","Body Weight",83.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0219","WEIGHT","Body Weight",82.7,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0219","WEIGHT","Body Weight",82.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0219","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0220","WEIGHT","Body Weight",81.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0220","WEIGHT","Body Weight",81.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0220","WEIGHT","Body Weight",80.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0220","WEIGHT","Body Weight",80.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0220","WEIGHT","Body Weight",80,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0221","WEIGHT","Body Weight",91.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0221","WEIGHT","Body Weight",92.3,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0221","WEIGHT","Body Weight",92.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0221","WEIGHT","Body Weight",92.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0221","WEIGHT","Body Weight",92.9,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0222","WEIGHT","Body Weight",55.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0222","WEIGHT","Body Weight",55,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0222","WEIGHT","Body Weight",54.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0222","WEIGHT","Body Weight",52.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0222","WEIGHT","Body Weight",53.2,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0223","WEIGHT","Body Weight",52.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0223","WEIGHT","Body Weight",51.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0223","WEIGHT","Body Weight",50.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0223","WEIGHT","Body Weight",49.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0223","WEIGHT","Body Weight",49.1,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0224","WEIGHT","Body Weight",111.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0224","WEIGHT","Body Weight",112.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0224","WEIGHT","Body Weight",,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0224","WEIGHT","Body Weight",112.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0224","WEIGHT","Body Weight",113,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0225","WEIGHT","Body Weight",76.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0225","WEIGHT","Body Weight",76.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0225","WEIGHT","Body Weight",75,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0225","WEIGHT","Body Weight",74.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0225","WEIGHT","Body Weight",74.5,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0226","WEIGHT","Body Weight",80,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0226","WEIGHT","Body Weight",80.4,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0226","WEIGHT","Body Weight",79.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0226","WEIGHT","Body Weight",80.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0226","WEIGHT","Body Weight",80,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0227","WEIGHT","Body Weight",74.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0227","WEIGHT","Body Weight",73.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0227","WEIGHT","Body Weight",,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0227","WEIGHT","Body Weight",72.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0227","WEIGHT","Body Weight",72.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0228","WEIGHT","Body Weight",82.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0228","WEIGHT","Body Weight",81.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0228","WEIGHT","Body Weight",81.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0228","WEIGHT","Body Weight",81.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0228","WEIGHT","Body Weight",81.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0229","WEIGHT","Body Weight",85.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0229","WEIGHT","Body Weight",84.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0229","WEIGHT","Body Weight",84.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0229","WEIGHT","Body Weight",,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0229","WEIGHT","Body Weight",82.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0230","WEIGHT","Body Weight",66.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0230","WEIGHT","Body Weight",66.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0230","WEIGHT","Body Weight",66,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0230","WEIGHT","Body Weight",65.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0230","WEIGHT","Body Weight",64.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0231","WEIGHT","Body Weight",133.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0231","WEIGHT","Body Weight",133.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0231","WEIGHT","Body Weight",133.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0231","WEIGHT","Body Weight",134.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0231","WEIGHT","Body Weight",134.2,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0232","WEIGHT","Body Weight",105.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0232","WEIGHT","Body Weight",106.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0232","WEIGHT","Body Weight",105.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0232","WEIGHT","Body Weight",105.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0232","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0233","WEIGHT","Body Weight",88.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0233","WEIGHT","Body Weight",88.3,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0233","WEIGHT","Body Weight",88.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0233","WEIGHT","Body Weight",88.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0233","WEIGHT","Body Weight",88.1,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0234","WEIGHT","Body Weight",95.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0234","WEIGHT","Body Weight",95.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0234","WEIGHT","Body Weight",95.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0234","WEIGHT","Body Weight",94.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0234","WEIGHT","Body Weight",95.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0235","WEIGHT","Body Weight",116.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0235","WEIGHT","Body Weight",115.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0235","WEIGHT","Body Weight",,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0235","WEIGHT","Body Weight",114.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0235","WEIGHT","Body Weight",113.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0236","WEIGHT","Body Weight",71.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0236","WEIGHT","Body Weight",69.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0236","WEIGHT","Body Weight",69.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0236","WEIGHT","Body Weight",69.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0236","WEIGHT","Body Weight",67.5,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0237","WEIGHT","Body Weight",103.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0237","WEIGHT","Body Weight",102.4,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0237","WEIGHT","Body Weight",100.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0237","WEIGHT","Body Weight",101.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0237","WEIGHT","Body Weight",100.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0238","WEIGHT","Body Weight",67.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0238","WEIGHT","Body Weight",66.3,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0238","WEIGHT","Body Weight",66.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0238","WEIGHT","Body Weight",66,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0238","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0239","WEIGHT","Body Weight",67.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0239","WEIGHT","Body Weight",66.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0239","WEIGHT","Body Weight",66.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0239","WEIGHT","Body Weight",66.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0239","WEIGHT","Body Weight",66.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0240","WEIGHT","Body Weight",72.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0240","WEIGHT","Body Weight",72.5,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0240","WEIGHT","Body Weight",72.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0240","WEIGHT","Body Weight",72.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0240","WEIGHT","Body Weight",72.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0241","WEIGHT","Body Weight",86.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0241","WEIGHT","Body Weight",85,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0241","WEIGHT","Body Weight",83.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0241","WEIGHT","Body Weight",83.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0241","WEIGHT","Body Weight",82.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0242","WEIGHT","Body Weight",103.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0242","WEIGHT","Body Weight",102.5,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0242","WEIGHT","Body Weight",,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0242","WEIGHT","Body Weight",102.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0242","WEIGHT","Body Weight",101,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0243","WEIGHT","Body Weight",67.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0243","WEIGHT","Body Weight",68.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0243","WEIGHT","Body Weight",69.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0243","WEIGHT","Body Weight",68.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0243","WEIGHT","Body Weight",69.9,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0244","WEIGHT","Body Weight",101.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0244","WEIGHT","Body Weight",99.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0244","WEIGHT","Body Weight",99.7,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0244","WEIGHT","Body Weight",99.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0244","WEIGHT","Body Weight",98.1,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0245","WEIGHT","Body Weight",91.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0245","WEIGHT","Body Weight",91.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0245","WEIGHT","Body Weight",91.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0245","WEIGHT","Body Weight",91.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0245","WEIGHT","Body Weight",90.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0246","WEIGHT","Body Weight",89.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0246","WEIGHT","Body Weight",88.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0246","WEIGHT","Body Weight",88.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0246","WEIGHT","Body Weight",88.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0246","WEIGHT","Body Weight",88.1,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0247","WEIGHT","Body Weight",80.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0247","WEIGHT","Body Weight",79.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0247","WEIGHT","Body Weight",79.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0247","WEIGHT","Body Weight",78.9,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0247","WEIGHT","Body Weight",77.1,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0248","WEIGHT","Body Weight",96.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0248","WEIGHT","Body Weight",96.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0248","WEIGHT","Body Weight",95.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0248","WEIGHT","Body Weight",95.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0248","WEIGHT","Body Weight",95.5,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0249","WEIGHT","Body Weight",75.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0249","WEIGHT","Body Weight",74.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0249","WEIGHT","Body Weight",75,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0249","WEIGHT","Body Weight",74.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0249","WEIGHT","Body Weight",74.5,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0250","WEIGHT","Body Weight",73.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0250","WEIGHT","Body Weight",73.3,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0250","WEIGHT","Body Weight",73.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0250","WEIGHT","Body Weight",73.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0250","WEIGHT","Body Weight",73.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0251","WEIGHT","Body Weight",62.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0251","WEIGHT","Body Weight",60.3,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0251","WEIGHT","Body Weight",61,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0251","WEIGHT","Body Weight",61.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0251","WEIGHT","Body Weight",60,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0252","WEIGHT","Body Weight",76.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0252","WEIGHT","Body Weight",77.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0252","WEIGHT","Body Weight",77.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0252","WEIGHT","Body Weight",77.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0252","WEIGHT","Body Weight",76.9,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0253","WEIGHT","Body Weight",106.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0253","WEIGHT","Body Weight",106.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0253","WEIGHT","Body Weight",106.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0253","WEIGHT","Body Weight",105.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0253","WEIGHT","Body Weight",105.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0254","WEIGHT","Body Weight",115.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0254","WEIGHT","Body Weight",116,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0254","WEIGHT","Body Weight",116.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0254","WEIGHT","Body Weight",117.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0254","WEIGHT","Body Weight",118.6,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0255","WEIGHT","Body Weight",93.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0255","WEIGHT","Body Weight",94,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0255","WEIGHT","Body Weight",93.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0255","WEIGHT","Body Weight",93.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0255","WEIGHT","Body Weight",93.6,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0256","WEIGHT","Body Weight",108.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0256","WEIGHT","Body Weight",109.3,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0256","WEIGHT","Body Weight",109.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0256","WEIGHT","Body Weight",109.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0256","WEIGHT","Body Weight",110.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0257","WEIGHT","Body Weight",98.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0257","WEIGHT","Body Weight",98.4,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0257","WEIGHT","Body Weight",97.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0257","WEIGHT","Body Weight",97.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0257","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0258","WEIGHT","Body Weight",112.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0258","WEIGHT","Body Weight",113,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0258","WEIGHT","Body Weight",112,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0258","WEIGHT","Body Weight",112,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0258","WEIGHT","Body Weight",111,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0259","WEIGHT","Body Weight",83.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0259","WEIGHT","Body Weight",,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0259","WEIGHT","Body Weight",82.7,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0259","WEIGHT","Body Weight",82,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0259","WEIGHT","Body Weight",81.9,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0260","WEIGHT","Body Weight",95.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0260","WEIGHT","Body Weight",94.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0260","WEIGHT","Body Weight",95.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0260","WEIGHT","Body Weight",95.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0260","WEIGHT","Body Weight",94.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0261","WEIGHT","Body Weight",81.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0261","WEIGHT","Body Weight",81.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0261","WEIGHT","Body Weight",80.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0261","WEIGHT","Body Weight",80.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0261","WEIGHT","Body Weight",79.9,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0262","WEIGHT","Body Weight",80.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0262","WEIGHT","Body Weight",79.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0262","WEIGHT","Body Weight",80.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0262","WEIGHT","Body Weight",78.9,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0262","WEIGHT","Body Weight",79.1,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0263","WEIGHT","Body Weight",94,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0263","WEIGHT","Body Weight",93.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0263","WEIGHT","Body Weight",93.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0263","WEIGHT","Body Weight",93,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0263","WEIGHT","Body Weight",92.2,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0264","WEIGHT","Body Weight",112.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0264","WEIGHT","Body Weight",113.3,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0264","WEIGHT","Body Weight",113,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0264","WEIGHT","Body Weight",113,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0264","WEIGHT","Body Weight",112.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0265","WEIGHT","Body Weight",72.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0265","WEIGHT","Body Weight",72,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0265","WEIGHT","Body Weight",71.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0265","WEIGHT","Body Weight",71.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0265","WEIGHT","Body Weight",71.5,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0266","WEIGHT","Body Weight",114.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0266","WEIGHT","Body Weight",112.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0266","WEIGHT","Body Weight",113.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0266","WEIGHT","Body Weight",111.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0266","WEIGHT","Body Weight",110.1,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0267","WEIGHT","Body Weight",75.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0267","WEIGHT","Body Weight",75.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0267","WEIGHT","Body Weight",76,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0267","WEIGHT","Body Weight",76.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0267","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0268","WEIGHT","Body Weight",67.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0268","WEIGHT","Body Weight",67.5,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0268","WEIGHT","Body Weight",68.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0268","WEIGHT","Body Weight",,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0268","WEIGHT","Body Weight",69,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0269","WEIGHT","Body Weight",108.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0269","WEIGHT","Body Weight",108.5,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0269","WEIGHT","Body Weight",109.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0269","WEIGHT","Body Weight",108.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0269","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0270","WEIGHT","Body Weight",90.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0270","WEIGHT","Body Weight",90.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0270","WEIGHT","Body Weight",90.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0270","WEIGHT","Body Weight",91.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0270","WEIGHT","Body Weight",91.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0271","WEIGHT","Body Weight",82.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0271","WEIGHT","Body Weight",82.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0271","WEIGHT","Body Weight",82.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0271","WEIGHT","Body Weight",81.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0271","WEIGHT","Body Weight",82.1,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0272","WEIGHT","Body Weight",69.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0272","WEIGHT","Body Weight",,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0272","WEIGHT","Body Weight",68.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0272","WEIGHT","Body Weight",69.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0272","WEIGHT","Body Weight",68.6,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0273","WEIGHT","Body Weight",92.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0273","WEIGHT","Body Weight",92.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0273","WEIGHT","Body Weight",91.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0273","WEIGHT","Body Weight",92,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0273","WEIGHT","Body Weight",91.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0274","WEIGHT","Body Weight",83.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0274","WEIGHT","Body Weight",83,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0274","WEIGHT","Body Weight",82.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0274","WEIGHT","Body Weight",,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0274","WEIGHT","Body Weight",82.1,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0275","WEIGHT","Body Weight",104.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0275","WEIGHT","Body Weight",103.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0275","WEIGHT","Body Weight",103,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0275","WEIGHT","Body Weight",101.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0275","WEIGHT","Body Weight",101.5,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0276","WEIGHT","Body Weight",80.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0276","WEIGHT","Body Weight",81.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0276","WEIGHT","Body Weight",80.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0276","WEIGHT","Body Weight",81.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0276","WEIGHT","Body Weight",81.9,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0277","WEIGHT","Body Weight",81.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0277","WEIGHT","Body Weight",81.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0277","WEIGHT","Body Weight",82.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0277","WEIGHT","Body Weight",82,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0277","WEIGHT","Body Weight",82.2,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0278","WEIGHT","Body Weight",91.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0278","WEIGHT","Body Weight",91.5,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0278","WEIGHT","Body Weight",92.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0278","WEIGHT","Body Weight",,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0278","WEIGHT","Body Weight",92.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0279","WEIGHT","Body Weight",79.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0279","WEIGHT","Body Weight",,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0279","WEIGHT","Body Weight",78,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0279","WEIGHT","Body Weight",78.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0279","WEIGHT","Body Weight",77.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0280","WEIGHT","Body Weight",67.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0280","WEIGHT","Body Weight",67.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0280","WEIGHT","Body Weight",66.7,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0280","WEIGHT","Body Weight",67.9,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0280","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0281","WEIGHT","Body Weight",95.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0281","WEIGHT","Body Weight",,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0281","WEIGHT","Body Weight",94.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0281","WEIGHT","Body Weight",94.9,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0281","WEIGHT","Body Weight",95.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0282","WEIGHT","Body Weight",76.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0282","WEIGHT","Body Weight",76.4,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0282","WEIGHT","Body Weight",75.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0282","WEIGHT","Body Weight",75,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0282","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0283","WEIGHT","Body Weight",67.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0283","WEIGHT","Body Weight",67.4,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0283","WEIGHT","Body Weight",66.7,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0283","WEIGHT","Body Weight",66.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0283","WEIGHT","Body Weight",65.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0284","WEIGHT","Body Weight",88.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0284","WEIGHT","Body Weight",87.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0284","WEIGHT","Body Weight",87.7,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0284","WEIGHT","Body Weight",87.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0284","WEIGHT","Body Weight",87.2,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0285","WEIGHT","Body Weight",68,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0285","WEIGHT","Body Weight",,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0285","WEIGHT","Body Weight",67.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0285","WEIGHT","Body Weight",66.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0285","WEIGHT","Body Weight",67,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0286","WEIGHT","Body Weight",93.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0286","WEIGHT","Body Weight",92,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0286","WEIGHT","Body Weight",93,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0286","WEIGHT","Body Weight",91.9,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0286","WEIGHT","Body Weight",90.5,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0287","WEIGHT","Body Weight",96.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0287","WEIGHT","Body Weight",96.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0287","WEIGHT","Body Weight",96,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0287","WEIGHT","Body Weight",95.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0287","WEIGHT","Body Weight",95.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0288","WEIGHT","Body Weight",82.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0288","WEIGHT","Body Weight",82.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0288","WEIGHT","Body Weight",81.7,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0288","WEIGHT","Body Weight",82.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0288","WEIGHT","Body Weight",82,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0289","WEIGHT","Body Weight",66.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0289","WEIGHT","Body Weight",67.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0289","WEIGHT","Body Weight",66.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0289","WEIGHT","Body Weight",67.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0289","WEIGHT","Body Weight",67.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0290","WEIGHT","Body Weight",107.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0290","WEIGHT","Body Weight",105.4,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0290","WEIGHT","Body Weight",104,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0290","WEIGHT","Body Weight",102.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0290","WEIGHT","Body Weight",100.6,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0291","WEIGHT","Body Weight",101,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0291","WEIGHT","Body Weight",101.3,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0291","WEIGHT","Body Weight",101,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0291","WEIGHT","Body Weight",100.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0291","WEIGHT","Body Weight",99.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0292","WEIGHT","Body Weight",64.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0292","WEIGHT","Body Weight",64.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0292","WEIGHT","Body Weight",63.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0292","WEIGHT","Body Weight",63.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0292","WEIGHT","Body Weight",62.9,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0293","WEIGHT","Body Weight",113.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0293","WEIGHT","Body Weight",115.3,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0293","WEIGHT","Body Weight",114.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0293","WEIGHT","Body Weight",115.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0293","WEIGHT","Body Weight",116.2,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0294","WEIGHT","Body Weight",108.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0294","WEIGHT","Body Weight",108,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0294","WEIGHT","Body Weight",107.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0294","WEIGHT","Body Weight",107.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0294","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0295","WEIGHT","Body Weight",94.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0295","WEIGHT","Body Weight",94.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0295","WEIGHT","Body Weight",94.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0295","WEIGHT","Body Weight",94.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0295","WEIGHT","Body Weight",93.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0296","WEIGHT","Body Weight",77.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0296","WEIGHT","Body Weight",77.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0296","WEIGHT","Body Weight",77,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0296","WEIGHT","Body Weight",77.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0296","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0297","WEIGHT","Body Weight",82.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0297","WEIGHT","Body Weight",81.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0297","WEIGHT","Body Weight",82,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0297","WEIGHT","Body Weight",81.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0297","WEIGHT","Body Weight",81.2,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0298","WEIGHT","Body Weight",109.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0298","WEIGHT","Body Weight",108.3,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0298","WEIGHT","Body Weight",107.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0298","WEIGHT","Body Weight",107.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0298","WEIGHT","Body Weight",105.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0299","WEIGHT","Body Weight",77.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0299","WEIGHT","Body Weight",77.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0299","WEIGHT","Body Weight",77.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0299","WEIGHT","Body Weight",76.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0299","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0300","WEIGHT","Body Weight",88.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0300","WEIGHT","Body Weight",87.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0300","WEIGHT","Body Weight",88.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0300","WEIGHT","Body Weight",88.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0300","WEIGHT","Body Weight",88.2,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0301","WEIGHT","Body Weight",171.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0301","WEIGHT","Body Weight",170.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0301","WEIGHT","Body Weight",170.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0301","WEIGHT","Body Weight",170.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0301","WEIGHT","Body Weight",170.2,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0302","WEIGHT","Body Weight",100,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0302","WEIGHT","Body Weight",99.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0302","WEIGHT","Body Weight",99.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0302","WEIGHT","Body Weight",98.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0302","WEIGHT","Body Weight",98,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0303","WEIGHT","Body Weight",71.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0303","WEIGHT","Body Weight",71.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0303","WEIGHT","Body Weight",70.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0303","WEIGHT","Body Weight",70.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0303","WEIGHT","Body Weight",70.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0304","WEIGHT","Body Weight",69.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0304","WEIGHT","Body Weight",69.4,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0304","WEIGHT","Body Weight",68.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0304","WEIGHT","Body Weight",68.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0304","WEIGHT","Body Weight",66.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0305","WEIGHT","Body Weight",71.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0305","WEIGHT","Body Weight",71.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0305","WEIGHT","Body Weight",71.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0305","WEIGHT","Body Weight",71.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0305","WEIGHT","Body Weight",71.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0306","WEIGHT","Body Weight",76.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0306","WEIGHT","Body Weight",76.5,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0306","WEIGHT","Body Weight",75.7,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0306","WEIGHT","Body Weight",76.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0306","WEIGHT","Body Weight",76.1,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0307","WEIGHT","Body Weight",94.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0307","WEIGHT","Body Weight",94.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0307","WEIGHT","Body Weight",94.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0307","WEIGHT","Body Weight",95.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0307","WEIGHT","Body Weight",95.1,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0308","WEIGHT","Body Weight",46,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0308","WEIGHT","Body Weight",46.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0308","WEIGHT","Body Weight",45.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0308","WEIGHT","Body Weight",45.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0308","WEIGHT","Body Weight",46.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0309","WEIGHT","Body Weight",75.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0309","WEIGHT","Body Weight",75.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0309","WEIGHT","Body Weight",76.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0309","WEIGHT","Body Weight",75.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0309","WEIGHT","Body Weight",75.1,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0310","WEIGHT","Body Weight",89.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0310","WEIGHT","Body Weight",,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0310","WEIGHT","Body Weight",86.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0310","WEIGHT","Body Weight",84.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0310","WEIGHT","Body Weight",83.2,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0311","WEIGHT","Body Weight",87.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0311","WEIGHT","Body Weight",87.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0311","WEIGHT","Body Weight",87.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0311","WEIGHT","Body Weight",86.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0311","WEIGHT","Body Weight",86.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0312","WEIGHT","Body Weight",72.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0312","WEIGHT","Body Weight",72,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0312","WEIGHT","Body Weight",72.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0312","WEIGHT","Body Weight",72.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0312","WEIGHT","Body Weight",72.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0313","WEIGHT","Body Weight",84.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0313","WEIGHT","Body Weight",83.5,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0313","WEIGHT","Body Weight",82.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0313","WEIGHT","Body Weight",81.9,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0313","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0314","WEIGHT","Body Weight",94.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0314","WEIGHT","Body Weight",95,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0314","WEIGHT","Body Weight",94.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0314","WEIGHT","Body Weight",95.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0314","WEIGHT","Body Weight",95.6,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0315","WEIGHT","Body Weight",81.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0315","WEIGHT","Body Weight",80.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0315","WEIGHT","Body Weight",80.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0315","WEIGHT","Body Weight",79.9,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0315","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0316","WEIGHT","Body Weight",78.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0316","WEIGHT","Body Weight",78.3,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0316","WEIGHT","Body Weight",78.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0316","WEIGHT","Body Weight",78.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0316","WEIGHT","Body Weight",78.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0317","WEIGHT","Body Weight",108.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0317","WEIGHT","Body Weight",107.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0317","WEIGHT","Body Weight",107.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0317","WEIGHT","Body Weight",106.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0317","WEIGHT","Body Weight",105.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0318","WEIGHT","Body Weight",81.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0318","WEIGHT","Body Weight",82.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0318","WEIGHT","Body Weight",83.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0318","WEIGHT","Body Weight",84.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0318","WEIGHT","Body Weight",84.9,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0319","WEIGHT","Body Weight",74.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0319","WEIGHT","Body Weight",74.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0319","WEIGHT","Body Weight",73.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0319","WEIGHT","Body Weight",73.9,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0319","WEIGHT","Body Weight",72.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0320","WEIGHT","Body Weight",132.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0320","WEIGHT","Body Weight",131.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0320","WEIGHT","Body Weight",131,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0320","WEIGHT","Body Weight",129.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0320","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0321","WEIGHT","Body Weight",72.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0321","WEIGHT","Body Weight",72.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0321","WEIGHT","Body Weight",74.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0321","WEIGHT","Body Weight",74.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0321","WEIGHT","Body Weight",74.9,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0322","WEIGHT","Body Weight",75.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0322","WEIGHT","Body Weight",75.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0322","WEIGHT","Body Weight",76.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0322","WEIGHT","Body Weight",76.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0322","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0323","WEIGHT","Body Weight",49.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0323","WEIGHT","Body Weight",49.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0323","WEIGHT","Body Weight",49.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0323","WEIGHT","Body Weight",48.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0323","WEIGHT","Body Weight",47.1,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0324","WEIGHT","Body Weight",98,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0324","WEIGHT","Body Weight",98.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0324","WEIGHT","Body Weight",98.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0324","WEIGHT","Body Weight",98.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0324","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0325","WEIGHT","Body Weight",63.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0325","WEIGHT","Body Weight",63.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0325","WEIGHT","Body Weight",64.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0325","WEIGHT","Body Weight",64.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0325","WEIGHT","Body Weight",64.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0326","WEIGHT","Body Weight",94.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0326","WEIGHT","Body Weight",94.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0326","WEIGHT","Body Weight",93.7,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0326","WEIGHT","Body Weight",93.9,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0326","WEIGHT","Body Weight",92.5,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0327","WEIGHT","Body Weight",56.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0327","WEIGHT","Body Weight",55.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0327","WEIGHT","Body Weight",55.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0327","WEIGHT","Body Weight",55.9,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0327","WEIGHT","Body Weight",54.5,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0328","WEIGHT","Body Weight",90.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0328","WEIGHT","Body Weight",89.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0328","WEIGHT","Body Weight",90,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0328","WEIGHT","Body Weight",89.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0328","WEIGHT","Body Weight",89.2,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0329","WEIGHT","Body Weight",85.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0329","WEIGHT","Body Weight",85.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0329","WEIGHT","Body Weight",85.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0329","WEIGHT","Body Weight",84.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0329","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0330","WEIGHT","Body Weight",88.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0330","WEIGHT","Body Weight",87.5,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0330","WEIGHT","Body Weight",87.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0330","WEIGHT","Body Weight",85.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0330","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0331","WEIGHT","Body Weight",76.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0331","WEIGHT","Body Weight",75.3,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0331","WEIGHT","Body Weight",76.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0331","WEIGHT","Body Weight",75.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0331","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0332","WEIGHT","Body Weight",75.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0332","WEIGHT","Body Weight",75.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0332","WEIGHT","Body Weight",75,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0332","WEIGHT","Body Weight",74.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0332","WEIGHT","Body Weight",75.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0333","WEIGHT","Body Weight",83,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0333","WEIGHT","Body Weight",83.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0333","WEIGHT","Body Weight",82.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0333","WEIGHT","Body Weight",82.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0333","WEIGHT","Body Weight",82.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0334","WEIGHT","Body Weight",80.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0334","WEIGHT","Body Weight",79.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0334","WEIGHT","Body Weight",80,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0334","WEIGHT","Body Weight",79.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0334","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0335","WEIGHT","Body Weight",82.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0335","WEIGHT","Body Weight",81.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0335","WEIGHT","Body Weight",81.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0335","WEIGHT","Body Weight",80.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0335","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0336","WEIGHT","Body Weight",94.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0336","WEIGHT","Body Weight",95.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0336","WEIGHT","Body Weight",95.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0336","WEIGHT","Body Weight",95.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0336","WEIGHT","Body Weight",95.6,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0337","WEIGHT","Body Weight",93.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0337","WEIGHT","Body Weight",92,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0337","WEIGHT","Body Weight",91.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0337","WEIGHT","Body Weight",90.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0337","WEIGHT","Body Weight",89.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0338","WEIGHT","Body Weight",93.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0338","WEIGHT","Body Weight",93.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0338","WEIGHT","Body Weight",92.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0338","WEIGHT","Body Weight",92.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0338","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0339","WEIGHT","Body Weight",98.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0339","WEIGHT","Body Weight",98.5,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0339","WEIGHT","Body Weight",97.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0339","WEIGHT","Body Weight",98.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0339","WEIGHT","Body Weight",97.9,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0340","WEIGHT","Body Weight",109.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0340","WEIGHT","Body Weight",108.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0340","WEIGHT","Body Weight",108.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0340","WEIGHT","Body Weight",107.9,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0340","WEIGHT","Body Weight",107.1,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0341","WEIGHT","Body Weight",82.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0341","WEIGHT","Body Weight",81.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0341","WEIGHT","Body Weight",81.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0341","WEIGHT","Body Weight",82.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0341","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0342","WEIGHT","Body Weight",82.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0342","WEIGHT","Body Weight",81.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0342","WEIGHT","Body Weight",81.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0342","WEIGHT","Body Weight",80.9,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0342","WEIGHT","Body Weight",80.1,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0343","WEIGHT","Body Weight",73.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0343","WEIGHT","Body Weight",73.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0343","WEIGHT","Body Weight",72.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0343","WEIGHT","Body Weight",73.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0343","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0344","WEIGHT","Body Weight",79.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0344","WEIGHT","Body Weight",79.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0344","WEIGHT","Body Weight",78.7,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0344","WEIGHT","Body Weight",79,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0344","WEIGHT","Body Weight",77.6,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0345","WEIGHT","Body Weight",100.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0345","WEIGHT","Body Weight",100.5,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0345","WEIGHT","Body Weight",100.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0345","WEIGHT","Body Weight",99.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0345","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0346","WEIGHT","Body Weight",79.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0346","WEIGHT","Body Weight",79.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0346","WEIGHT","Body Weight",79.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0346","WEIGHT","Body Weight",79.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0346","WEIGHT","Body Weight",78.5,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0347","WEIGHT","Body Weight",94.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0347","WEIGHT","Body Weight",95,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0347","WEIGHT","Body Weight",95,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0347","WEIGHT","Body Weight",95.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0347","WEIGHT","Body Weight",97.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0348","WEIGHT","Body Weight",89,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0348","WEIGHT","Body Weight",90.4,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0348","WEIGHT","Body Weight",89.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0348","WEIGHT","Body Weight",90.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0348","WEIGHT","Body Weight",90.6,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0349","WEIGHT","Body Weight",127.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0349","WEIGHT","Body Weight",126.4,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0349","WEIGHT","Body Weight",125.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0349","WEIGHT","Body Weight",124.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0349","WEIGHT","Body Weight",123.6,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0350","WEIGHT","Body Weight",74.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0350","WEIGHT","Body Weight",75.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0350","WEIGHT","Body Weight",75.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0350","WEIGHT","Body Weight",75.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0350","WEIGHT","Body Weight",75.5,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0351","WEIGHT","Body Weight",112.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0351","WEIGHT","Body Weight",111.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0351","WEIGHT","Body Weight",110.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0351","WEIGHT","Body Weight",109.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0351","WEIGHT","Body Weight",108.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0352","WEIGHT","Body Weight",77.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0352","WEIGHT","Body Weight",76.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0352","WEIGHT","Body Weight",75.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0352","WEIGHT","Body Weight",74.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0352","WEIGHT","Body Weight",73.5,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0353","WEIGHT","Body Weight",89.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0353","WEIGHT","Body Weight",90.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0353","WEIGHT","Body Weight",89.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0353","WEIGHT","Body Weight",89.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0353","WEIGHT","Body Weight",88.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0354","WEIGHT","Body Weight",66.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0354","WEIGHT","Body Weight",65.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0354","WEIGHT","Body Weight",64.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0354","WEIGHT","Body Weight",64.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0354","WEIGHT","Body Weight",63.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0355","WEIGHT","Body Weight",72.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0355","WEIGHT","Body Weight",73.3,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0355","WEIGHT","Body Weight",72.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0355","WEIGHT","Body Weight",75,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0355","WEIGHT","Body Weight",74.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0356","WEIGHT","Body Weight",109.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0356","WEIGHT","Body Weight",108.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0356","WEIGHT","Body Weight",109.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0356","WEIGHT","Body Weight",108.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0356","WEIGHT","Body Weight",107.5,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0357","WEIGHT","Body Weight",103.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0357","WEIGHT","Body Weight",102.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0357","WEIGHT","Body Weight",102.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0357","WEIGHT","Body Weight",101.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0357","WEIGHT","Body Weight",99.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0358","WEIGHT","Body Weight",102.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0358","WEIGHT","Body Weight",101.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0358","WEIGHT","Body Weight",102.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0358","WEIGHT","Body Weight",102.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0358","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0359","WEIGHT","Body Weight",92.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0359","WEIGHT","Body Weight",92,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0359","WEIGHT","Body Weight",91.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0359","WEIGHT","Body Weight",91.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0359","WEIGHT","Body Weight",91.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0360","WEIGHT","Body Weight",114.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0360","WEIGHT","Body Weight",114.4,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0360","WEIGHT","Body Weight",114.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0360","WEIGHT","Body Weight",114.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0360","WEIGHT","Body Weight",113.9,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0361","WEIGHT","Body Weight",116.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0361","WEIGHT","Body Weight",,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0361","WEIGHT","Body Weight",116,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0361","WEIGHT","Body Weight",116,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0361","WEIGHT","Body Weight",116.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0362","WEIGHT","Body Weight",106.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0362","WEIGHT","Body Weight",106.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0362","WEIGHT","Body Weight",106.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0362","WEIGHT","Body Weight",106.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0362","WEIGHT","Body Weight",105.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0363","WEIGHT","Body Weight",92.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0363","WEIGHT","Body Weight",92.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0363","WEIGHT","Body Weight",91.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0363","WEIGHT","Body Weight",91.9,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0363","WEIGHT","Body Weight",91.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0364","WEIGHT","Body Weight",102.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0364","WEIGHT","Body Weight",102.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0364","WEIGHT","Body Weight",102.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0364","WEIGHT","Body Weight",102.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0364","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0365","WEIGHT","Body Weight",75.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0365","WEIGHT","Body Weight",74.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0365","WEIGHT","Body Weight",74.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0365","WEIGHT","Body Weight",73.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0365","WEIGHT","Body Weight",73.1,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0366","WEIGHT","Body Weight",89.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0366","WEIGHT","Body Weight",87.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0366","WEIGHT","Body Weight",86.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0366","WEIGHT","Body Weight",86.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0366","WEIGHT","Body Weight",85.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0367","WEIGHT","Body Weight",96.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0367","WEIGHT","Body Weight",96,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0367","WEIGHT","Body Weight",96.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0367","WEIGHT","Body Weight",95.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0367","WEIGHT","Body Weight",96.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0368","WEIGHT","Body Weight",81.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0368","WEIGHT","Body Weight",,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0368","WEIGHT","Body Weight",81.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0368","WEIGHT","Body Weight",81.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0368","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0369","WEIGHT","Body Weight",87.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0369","WEIGHT","Body Weight",,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0369","WEIGHT","Body Weight",87.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0369","WEIGHT","Body Weight",86.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0369","WEIGHT","Body Weight",86.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0370","WEIGHT","Body Weight",86.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0370","WEIGHT","Body Weight",85.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0370","WEIGHT","Body Weight",85.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0370","WEIGHT","Body Weight",84.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0370","WEIGHT","Body Weight",84.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0371","WEIGHT","Body Weight",69.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0371","WEIGHT","Body Weight",68.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0371","WEIGHT","Body Weight",68.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0371","WEIGHT","Body Weight",67.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0371","WEIGHT","Body Weight",66.9,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0372","WEIGHT","Body Weight",83.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0372","WEIGHT","Body Weight",85.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0372","WEIGHT","Body Weight",85.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0372","WEIGHT","Body Weight",,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0372","WEIGHT","Body Weight",87.9,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0373","WEIGHT","Body Weight",100.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0373","WEIGHT","Body Weight",100.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0373","WEIGHT","Body Weight",,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0373","WEIGHT","Body Weight",98.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0373","WEIGHT","Body Weight",98.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0374","WEIGHT","Body Weight",106.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0374","WEIGHT","Body Weight",,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0374","WEIGHT","Body Weight",,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0374","WEIGHT","Body Weight",105.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0374","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0375","WEIGHT","Body Weight",91.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0375","WEIGHT","Body Weight",,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0375","WEIGHT","Body Weight",90.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0375","WEIGHT","Body Weight",90,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0375","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0376","WEIGHT","Body Weight",86.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0376","WEIGHT","Body Weight",85.3,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0376","WEIGHT","Body Weight",84.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0376","WEIGHT","Body Weight",84.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0376","WEIGHT","Body Weight",82.6,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0377","WEIGHT","Body Weight",67.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0377","WEIGHT","Body Weight",66.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0377","WEIGHT","Body Weight",65.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0377","WEIGHT","Body Weight",65.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0377","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0378","WEIGHT","Body Weight",81.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0378","WEIGHT","Body Weight",80.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0378","WEIGHT","Body Weight",80.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0378","WEIGHT","Body Weight",78.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0378","WEIGHT","Body Weight",77.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0379","WEIGHT","Body Weight",88.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0379","WEIGHT","Body Weight",88.5,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0379","WEIGHT","Body Weight",88.7,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0379","WEIGHT","Body Weight",88.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0379","WEIGHT","Body Weight",88.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0380","WEIGHT","Body Weight",81.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0380","WEIGHT","Body Weight",80,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0380","WEIGHT","Body Weight",80.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0380","WEIGHT","Body Weight",79.9,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0380","WEIGHT","Body Weight",78.1,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0381","WEIGHT","Body Weight",73,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0381","WEIGHT","Body Weight",72,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0381","WEIGHT","Body Weight",72.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0381","WEIGHT","Body Weight",71.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0381","WEIGHT","Body Weight",72.5,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0382","WEIGHT","Body Weight",72.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0382","WEIGHT","Body Weight",73.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0382","WEIGHT","Body Weight",72.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0382","WEIGHT","Body Weight",72.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0382","WEIGHT","Body Weight",72.2,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0383","WEIGHT","Body Weight",82.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0383","WEIGHT","Body Weight",83.4,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0383","WEIGHT","Body Weight",82.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0383","WEIGHT","Body Weight",82.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0383","WEIGHT","Body Weight",82.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0384","WEIGHT","Body Weight",108.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0384","WEIGHT","Body Weight",108,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0384","WEIGHT","Body Weight",108.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0384","WEIGHT","Body Weight",108.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0384","WEIGHT","Body Weight",108.5,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0385","WEIGHT","Body Weight",83.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0385","WEIGHT","Body Weight",83,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0385","WEIGHT","Body Weight",83.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0385","WEIGHT","Body Weight",83.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0385","WEIGHT","Body Weight",82.6,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0386","WEIGHT","Body Weight",107.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0386","WEIGHT","Body Weight",105.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0386","WEIGHT","Body Weight",106,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0386","WEIGHT","Body Weight",104.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0386","WEIGHT","Body Weight",105.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0387","WEIGHT","Body Weight",67.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0387","WEIGHT","Body Weight",68,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0387","WEIGHT","Body Weight",69,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0387","WEIGHT","Body Weight",69,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0387","WEIGHT","Body Weight",68.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0388","WEIGHT","Body Weight",96.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0388","WEIGHT","Body Weight",96,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0388","WEIGHT","Body Weight",94.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0388","WEIGHT","Body Weight",94.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0388","WEIGHT","Body Weight",94.1,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0389","WEIGHT","Body Weight",88.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0389","WEIGHT","Body Weight",88.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0389","WEIGHT","Body Weight",87.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0389","WEIGHT","Body Weight",87.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0389","WEIGHT","Body Weight",86.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0390","WEIGHT","Body Weight",125.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0390","WEIGHT","Body Weight",123.5,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0390","WEIGHT","Body Weight",122.7,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0390","WEIGHT","Body Weight",121.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0390","WEIGHT","Body Weight",120,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0391","WEIGHT","Body Weight",94.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0391","WEIGHT","Body Weight",94,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0391","WEIGHT","Body Weight",93.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0391","WEIGHT","Body Weight",93.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0391","WEIGHT","Body Weight",92.6,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0392","WEIGHT","Body Weight",73,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0392","WEIGHT","Body Weight",72.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0392","WEIGHT","Body Weight",73.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0392","WEIGHT","Body Weight",72.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0392","WEIGHT","Body Weight",72.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0393","WEIGHT","Body Weight",56,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0393","WEIGHT","Body Weight",54.3,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0393","WEIGHT","Body Weight",55.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0393","WEIGHT","Body Weight",54.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0393","WEIGHT","Body Weight",53.9,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0394","WEIGHT","Body Weight",113.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0394","WEIGHT","Body Weight",113.3,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0394","WEIGHT","Body Weight",112.7,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0394","WEIGHT","Body Weight",113.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0394","WEIGHT","Body Weight",112.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0395","WEIGHT","Body Weight",83,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0395","WEIGHT","Body Weight",83.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0395","WEIGHT","Body Weight",82.7,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0395","WEIGHT","Body Weight",82.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0395","WEIGHT","Body Weight",83.2,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0396","WEIGHT","Body Weight",78.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0396","WEIGHT","Body Weight",77.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0396","WEIGHT","Body Weight",77.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0396","WEIGHT","Body Weight",75.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0396","WEIGHT","Body Weight",74.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0397","WEIGHT","Body Weight",96.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0397","WEIGHT","Body Weight",97.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0397","WEIGHT","Body Weight",98.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0397","WEIGHT","Body Weight",97.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0397","WEIGHT","Body Weight",97.9,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0398","WEIGHT","Body Weight",75.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0398","WEIGHT","Body Weight",75,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0398","WEIGHT","Body Weight",,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0398","WEIGHT","Body Weight",74.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0398","WEIGHT","Body Weight",74.6,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0399","WEIGHT","Body Weight",90.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0399","WEIGHT","Body Weight",89.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0399","WEIGHT","Body Weight",89.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0399","WEIGHT","Body Weight",88.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0399","WEIGHT","Body Weight",88.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0400","WEIGHT","Body Weight",91.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0400","WEIGHT","Body Weight",91.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0400","WEIGHT","Body Weight",90.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0400","WEIGHT","Body Weight",91.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0400","WEIGHT","Body Weight",91.1,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0401","WEIGHT","Body Weight",59.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0401","WEIGHT","Body Weight",,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0401","WEIGHT","Body Weight",58.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0401","WEIGHT","Body Weight",58,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0401","WEIGHT","Body Weight",56.2,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0402","WEIGHT","Body Weight",86.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0402","WEIGHT","Body Weight",85.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0402","WEIGHT","Body Weight",85.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0402","WEIGHT","Body Weight",84.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0402","WEIGHT","Body Weight",84.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0403","WEIGHT","Body Weight",88.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0403","WEIGHT","Body Weight",87.3,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0403","WEIGHT","Body Weight",86.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0403","WEIGHT","Body Weight",85.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0403","WEIGHT","Body Weight",85.1,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0404","WEIGHT","Body Weight",89.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0404","WEIGHT","Body Weight",89.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0404","WEIGHT","Body Weight",88.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0404","WEIGHT","Body Weight",88,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0404","WEIGHT","Body Weight",88.2,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0405","WEIGHT","Body Weight",62.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0405","WEIGHT","Body Weight",61.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0405","WEIGHT","Body Weight",61.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0405","WEIGHT","Body Weight",61.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0405","WEIGHT","Body Weight",60.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0406","WEIGHT","Body Weight",73.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0406","WEIGHT","Body Weight",73.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0406","WEIGHT","Body Weight",73.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0406","WEIGHT","Body Weight",73.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0406","WEIGHT","Body Weight",75.1,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0407","WEIGHT","Body Weight",99.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0407","WEIGHT","Body Weight",99,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0407","WEIGHT","Body Weight",99.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0407","WEIGHT","Body Weight",99.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0407","WEIGHT","Body Weight",98.2,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0408","WEIGHT","Body Weight",115.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0408","WEIGHT","Body Weight",115.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0408","WEIGHT","Body Weight",115.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0408","WEIGHT","Body Weight",116.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0408","WEIGHT","Body Weight",116.9,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0409","WEIGHT","Body Weight",78.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0409","WEIGHT","Body Weight",,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0409","WEIGHT","Body Weight",76.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0409","WEIGHT","Body Weight",75.9,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0409","WEIGHT","Body Weight",74.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0410","WEIGHT","Body Weight",66.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0410","WEIGHT","Body Weight",67,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0410","WEIGHT","Body Weight",66.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0410","WEIGHT","Body Weight",,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0410","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0411","WEIGHT","Body Weight",74,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0411","WEIGHT","Body Weight",73.3,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0411","WEIGHT","Body Weight",73.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0411","WEIGHT","Body Weight",,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0411","WEIGHT","Body Weight",71.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0412","WEIGHT","Body Weight",102.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0412","WEIGHT","Body Weight",101.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0412","WEIGHT","Body Weight",101.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0412","WEIGHT","Body Weight",100.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0412","WEIGHT","Body Weight",100.1,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0413","WEIGHT","Body Weight",112.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0413","WEIGHT","Body Weight",112.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0413","WEIGHT","Body Weight",111.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0413","WEIGHT","Body Weight",112.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0413","WEIGHT","Body Weight",112,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0414","WEIGHT","Body Weight",79.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0414","WEIGHT","Body Weight",79.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0414","WEIGHT","Body Weight",78.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0414","WEIGHT","Body Weight",77.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0414","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0415","WEIGHT","Body Weight",83.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0415","WEIGHT","Body Weight",83.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0415","WEIGHT","Body Weight",82.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0415","WEIGHT","Body Weight",83,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0415","WEIGHT","Body Weight",82,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0416","WEIGHT","Body Weight",94.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0416","WEIGHT","Body Weight",95.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0416","WEIGHT","Body Weight",94.7,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0416","WEIGHT","Body Weight",95.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0416","WEIGHT","Body Weight",95,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0417","WEIGHT","Body Weight",70.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0417","WEIGHT","Body Weight",,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0417","WEIGHT","Body Weight",69.7,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0417","WEIGHT","Body Weight",69.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0417","WEIGHT","Body Weight",69.6,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0418","WEIGHT","Body Weight",75.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0418","WEIGHT","Body Weight",73.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0418","WEIGHT","Body Weight",73.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0418","WEIGHT","Body Weight",72.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0418","WEIGHT","Body Weight",72.1,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0419","WEIGHT","Body Weight",85.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0419","WEIGHT","Body Weight",85.5,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0419","WEIGHT","Body Weight",84.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0419","WEIGHT","Body Weight",,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0419","WEIGHT","Body Weight",84,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0420","WEIGHT","Body Weight",63.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0420","WEIGHT","Body Weight",64.3,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0420","WEIGHT","Body Weight",63.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0420","WEIGHT","Body Weight",64,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0420","WEIGHT","Body Weight",65,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0421","WEIGHT","Body Weight",80.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0421","WEIGHT","Body Weight",79.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0421","WEIGHT","Body Weight",79.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0421","WEIGHT","Body Weight",80.9,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0421","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0422","WEIGHT","Body Weight",77.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0422","WEIGHT","Body Weight",,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0422","WEIGHT","Body Weight",78.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0422","WEIGHT","Body Weight",76.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0422","WEIGHT","Body Weight",76.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0423","WEIGHT","Body Weight",92.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0423","WEIGHT","Body Weight",91,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0423","WEIGHT","Body Weight",91.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0423","WEIGHT","Body Weight",90.9,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0423","WEIGHT","Body Weight",90.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0424","WEIGHT","Body Weight",70.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0424","WEIGHT","Body Weight",68.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0424","WEIGHT","Body Weight",67.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0424","WEIGHT","Body Weight",67.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0424","WEIGHT","Body Weight",66,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0425","WEIGHT","Body Weight",78.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0425","WEIGHT","Body Weight",77.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0425","WEIGHT","Body Weight",77.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0425","WEIGHT","Body Weight",76,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0425","WEIGHT","Body Weight",75,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0426","WEIGHT","Body Weight",111.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0426","WEIGHT","Body Weight",111.3,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0426","WEIGHT","Body Weight",111.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0426","WEIGHT","Body Weight",111.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0426","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0427","WEIGHT","Body Weight",80.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0427","WEIGHT","Body Weight",81.5,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0427","WEIGHT","Body Weight",80.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0427","WEIGHT","Body Weight",79.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0427","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0428","WEIGHT","Body Weight",114.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0428","WEIGHT","Body Weight",113.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0428","WEIGHT","Body Weight",113.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0428","WEIGHT","Body Weight",113.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0428","WEIGHT","Body Weight",112.6,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0429","WEIGHT","Body Weight",78.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0429","WEIGHT","Body Weight",77.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0429","WEIGHT","Body Weight",,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0429","WEIGHT","Body Weight",76.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0429","WEIGHT","Body Weight",76.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0430","WEIGHT","Body Weight",76.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0430","WEIGHT","Body Weight",76.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0430","WEIGHT","Body Weight",76.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0430","WEIGHT","Body Weight",76.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0430","WEIGHT","Body Weight",76.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0431","WEIGHT","Body Weight",78.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0431","WEIGHT","Body Weight",78.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0431","WEIGHT","Body Weight",79.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0431","WEIGHT","Body Weight",78.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0431","WEIGHT","Body Weight",78.2,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0432","WEIGHT","Body Weight",83.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0432","WEIGHT","Body Weight",83,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0432","WEIGHT","Body Weight",83.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0432","WEIGHT","Body Weight",81.9,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0432","WEIGHT","Body Weight",82.1,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0433","WEIGHT","Body Weight",83.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0433","WEIGHT","Body Weight",83.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0433","WEIGHT","Body Weight",83.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0433","WEIGHT","Body Weight",82.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0433","WEIGHT","Body Weight",83.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0434","WEIGHT","Body Weight",72.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0434","WEIGHT","Body Weight",72.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0434","WEIGHT","Body Weight",72.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0434","WEIGHT","Body Weight",,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0434","WEIGHT","Body Weight",71.1,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0435","WEIGHT","Body Weight",91.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0435","WEIGHT","Body Weight",91.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0435","WEIGHT","Body Weight",91.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0435","WEIGHT","Body Weight",91.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0435","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0436","WEIGHT","Body Weight",94.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0436","WEIGHT","Body Weight",94.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0436","WEIGHT","Body Weight",94.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0436","WEIGHT","Body Weight",94.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0436","WEIGHT","Body Weight",94.5,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0437","WEIGHT","Body Weight",93.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0437","WEIGHT","Body Weight",92.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0437","WEIGHT","Body Weight",91.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0437","WEIGHT","Body Weight",91.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0437","WEIGHT","Body Weight",90.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0438","WEIGHT","Body Weight",63.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0438","WEIGHT","Body Weight",62.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0438","WEIGHT","Body Weight",62,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0438","WEIGHT","Body Weight",63.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0438","WEIGHT","Body Weight",61.6,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0439","WEIGHT","Body Weight",104.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0439","WEIGHT","Body Weight",104.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0439","WEIGHT","Body Weight",104.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0439","WEIGHT","Body Weight",,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0439","WEIGHT","Body Weight",103.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0440","WEIGHT","Body Weight",100.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0440","WEIGHT","Body Weight",99.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0440","WEIGHT","Body Weight",99.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0440","WEIGHT","Body Weight",98.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0440","WEIGHT","Body Weight",97.5,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0441","WEIGHT","Body Weight",96.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0441","WEIGHT","Body Weight",96.3,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0441","WEIGHT","Body Weight",95.7,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0441","WEIGHT","Body Weight",94.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0441","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0442","WEIGHT","Body Weight",90.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0442","WEIGHT","Body Weight",89.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0442","WEIGHT","Body Weight",89.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0442","WEIGHT","Body Weight",88.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0442","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0443","WEIGHT","Body Weight",97.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0443","WEIGHT","Body Weight",96.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0443","WEIGHT","Body Weight",96.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0443","WEIGHT","Body Weight",95.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0443","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0444","WEIGHT","Body Weight",83.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0444","WEIGHT","Body Weight",82.4,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0444","WEIGHT","Body Weight",82.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0444","WEIGHT","Body Weight",81,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0444","WEIGHT","Body Weight",80.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0445","WEIGHT","Body Weight",96.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0445","WEIGHT","Body Weight",96,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0445","WEIGHT","Body Weight",95.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0445","WEIGHT","Body Weight",94.9,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0445","WEIGHT","Body Weight",94.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0446","WEIGHT","Body Weight",87.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0446","WEIGHT","Body Weight",86.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0446","WEIGHT","Body Weight",86.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0446","WEIGHT","Body Weight",85.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0446","WEIGHT","Body Weight",84.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0447","WEIGHT","Body Weight",85.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0447","WEIGHT","Body Weight",85.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0447","WEIGHT","Body Weight",84.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0447","WEIGHT","Body Weight",84.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0447","WEIGHT","Body Weight",83.6,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0448","WEIGHT","Body Weight",53.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0448","WEIGHT","Body Weight",,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0448","WEIGHT","Body Weight",53.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0448","WEIGHT","Body Weight",52.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0448","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0449","WEIGHT","Body Weight",82.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0449","WEIGHT","Body Weight",80.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0449","WEIGHT","Body Weight",81,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0449","WEIGHT","Body Weight",78.9,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0449","WEIGHT","Body Weight",78.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0450","WEIGHT","Body Weight",113.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0450","WEIGHT","Body Weight",112.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0450","WEIGHT","Body Weight",113.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0450","WEIGHT","Body Weight",113.8,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0450","WEIGHT","Body Weight",113.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0451","WEIGHT","Body Weight",81.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0451","WEIGHT","Body Weight",80.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0451","WEIGHT","Body Weight",80.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0451","WEIGHT","Body Weight",81.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0451","WEIGHT","Body Weight",82.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0452","WEIGHT","Body Weight",72.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0452","WEIGHT","Body Weight",73.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0452","WEIGHT","Body Weight",73.1,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0452","WEIGHT","Body Weight",73.9,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0452","WEIGHT","Body Weight",73,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0453","WEIGHT","Body Weight",80,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0453","WEIGHT","Body Weight",79.4,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0453","WEIGHT","Body Weight",79.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0453","WEIGHT","Body Weight",79.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0453","WEIGHT","Body Weight",78.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0454","WEIGHT","Body Weight",87.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0454","WEIGHT","Body Weight",88.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0454","WEIGHT","Body Weight",88.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0454","WEIGHT","Body Weight",88.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0454","WEIGHT","Body Weight",88.6,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0455","WEIGHT","Body Weight",94.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0455","WEIGHT","Body Weight",94.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0455","WEIGHT","Body Weight",93.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0455","WEIGHT","Body Weight",95.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0455","WEIGHT","Body Weight",93.1,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0456","WEIGHT","Body Weight",111.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0456","WEIGHT","Body Weight",110.4,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0456","WEIGHT","Body Weight",109.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0456","WEIGHT","Body Weight",108,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0456","WEIGHT","Body Weight",107.2,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0457","WEIGHT","Body Weight",54.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0457","WEIGHT","Body Weight",54.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0457","WEIGHT","Body Weight",54.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0457","WEIGHT","Body Weight",54.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0457","WEIGHT","Body Weight",55.1,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0458","WEIGHT","Body Weight",128.7,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0458","WEIGHT","Body Weight",128.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0458","WEIGHT","Body Weight",128.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0458","WEIGHT","Body Weight",127.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0458","WEIGHT","Body Weight",127.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0459","WEIGHT","Body Weight",94.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0459","WEIGHT","Body Weight",94.4,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0459","WEIGHT","Body Weight",,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0459","WEIGHT","Body Weight",95,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0459","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0460","WEIGHT","Body Weight",74.2,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0460","WEIGHT","Body Weight",73.6,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0460","WEIGHT","Body Weight",73.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0460","WEIGHT","Body Weight",73,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0460","WEIGHT","Body Weight",72,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0461","WEIGHT","Body Weight",91.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0461","WEIGHT","Body Weight",90.4,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0461","WEIGHT","Body Weight",89.9,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0461","WEIGHT","Body Weight",88.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0461","WEIGHT","Body Weight",88.2,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0462","WEIGHT","Body Weight",89,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0462","WEIGHT","Body Weight",89.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0462","WEIGHT","Body Weight",89,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0462","WEIGHT","Body Weight",89.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0462","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0463","WEIGHT","Body Weight",75.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0463","WEIGHT","Body Weight",75.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0463","WEIGHT","Body Weight",75,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0463","WEIGHT","Body Weight",74.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0463","WEIGHT","Body Weight",74.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0464","WEIGHT","Body Weight",107.1,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0464","WEIGHT","Body Weight",106.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0464","WEIGHT","Body Weight",106.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0464","WEIGHT","Body Weight",106.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0464","WEIGHT","Body Weight",106.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0465","WEIGHT","Body Weight",53.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0465","WEIGHT","Body Weight",52.9,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0465","WEIGHT","Body Weight",53.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0465","WEIGHT","Body Weight",52.9,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0465","WEIGHT","Body Weight",52.2,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0466","WEIGHT","Body Weight",99,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0466","WEIGHT","Body Weight",99.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0466","WEIGHT","Body Weight",99.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0466","WEIGHT","Body Weight",100.1,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0466","WEIGHT","Body Weight",99.7,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0467","WEIGHT","Body Weight",89.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0467","WEIGHT","Body Weight",88.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0467","WEIGHT","Body Weight",88.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0467","WEIGHT","Body Weight",87.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0467","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0468","WEIGHT","Body Weight",92.6,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0468","WEIGHT","Body Weight",92.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0468","WEIGHT","Body Weight",91.2,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0468","WEIGHT","Body Weight",90.7,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0468","WEIGHT","Body Weight",90.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0469","WEIGHT","Body Weight",89.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0469","WEIGHT","Body Weight",90.4,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0469","WEIGHT","Body Weight",90.7,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0469","WEIGHT","Body Weight",91.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0469","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0470","WEIGHT","Body Weight",74.8,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0470","WEIGHT","Body Weight",74.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0470","WEIGHT","Body Weight",73.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0470","WEIGHT","Body Weight",72.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0470","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0471","WEIGHT","Body Weight",98.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0471","WEIGHT","Body Weight",97.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0471","WEIGHT","Body Weight",97.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0471","WEIGHT","Body Weight",96.5,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0471","WEIGHT","Body Weight",95.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0472","WEIGHT","Body Weight",83.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0472","WEIGHT","Body Weight",83.3,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0472","WEIGHT","Body Weight",82,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0472","WEIGHT","Body Weight",82.6,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0472","WEIGHT","Body Weight",82.8,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0473","WEIGHT","Body Weight",152,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0473","WEIGHT","Body Weight",151.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0473","WEIGHT","Body Weight",151.6,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0473","WEIGHT","Body Weight",150.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0473","WEIGHT","Body Weight",149.9,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0474","WEIGHT","Body Weight",67.4,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0474","WEIGHT","Body Weight",66.8,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0474","WEIGHT","Body Weight",66.3,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0474","WEIGHT","Body Weight",66.4,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0474","WEIGHT","Body Weight",66.3,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0475","WEIGHT","Body Weight",69.5,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0475","WEIGHT","Body Weight",69.3,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0475","WEIGHT","Body Weight",67.7,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0475","WEIGHT","Body Weight",68.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0475","WEIGHT","Body Weight",68.4,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0476","WEIGHT","Body Weight",106,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0476","WEIGHT","Body Weight",106.7,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0476","WEIGHT","Body Weight",106.4,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0476","WEIGHT","Body Weight",106.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0476","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0477","WEIGHT","Body Weight",71.3,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0477","WEIGHT","Body Weight",71.1,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0477","WEIGHT","Body Weight",70.8,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0477","WEIGHT","Body Weight",71.2,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0477","WEIGHT","Body Weight",,"kg","Week 26",26,5
+"DIA-GLY3","VS","DIA0478","WEIGHT","Body Weight",94.9,"kg","Baseline",0,1
+"DIA-GLY3","VS","DIA0478","WEIGHT","Body Weight",94.2,"kg","Week 8",8,2
+"DIA-GLY3","VS","DIA0478","WEIGHT","Body Weight",92.5,"kg","Week 12",12,3
+"DIA-GLY3","VS","DIA0478","WEIGHT","Body Weight",93.3,"kg","Week 18",18,4
+"DIA-GLY3","VS","DIA0478","WEIGHT","Body Weight",91.7,"kg","Week 26",26,5

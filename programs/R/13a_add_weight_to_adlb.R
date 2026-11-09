@@ -1,0 +1,10 @@
+# DIA-GLY3: build WEIGHT ADLB records from observed ADEFF data
+adlb <- read.csv("data/adam/adlb.csv")
+adeff <- read.csv("data/adam/adeff.csv")
+adsl <- read.csv("data/adam/adsl.csv")
+w <- merge(adeff[,c("USUBJID","WEEK","WEIGHT")], adsl[,c("USUBJID","TRT01P","FASFL","WEIGHT_BL")], by="USUBJID", sort=FALSE)
+wout <- data.frame(USUBJID=w$USUBJID,TRT01P=w$TRT01P,FASFL=w$FASFL,PARAM="Body Weight",PARAMCD="WEIGHT",AVISIT=paste0("Week ",w$WEEK),AVISITN=w$WEEK,AVAL=w$WEIGHT,BASE=w$WEIGHT_BL,AVALU="kg",CHG=w$WEIGHT-w$WEIGHT_BL,ANL01FL=ifelse(w$WEEK>0 & !is.na(w$WEIGHT),"Y","N"),W26FL=ifelse(w$WEEK==26,"Y","N"))
+adlb <- rbind(adlb[adlb$PARAMCD!="WEIGHT",],wout[,names(adlb)])
+stopifnot(!anyDuplicated(adlb[c("USUBJID","PARAMCD","AVISITN")]))
+write.csv(adlb,"data/adam/adlb.csv",row.names=FALSE)
+cat("Week 26 observed weight:",sum(adlb$PARAMCD=="WEIGHT" & adlb$AVISITN==26 & !is.na(adlb$AVAL)),"\n")

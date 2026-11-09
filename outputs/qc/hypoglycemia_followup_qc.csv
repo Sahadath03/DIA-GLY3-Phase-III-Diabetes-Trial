@@ -1,0 +1,5 @@
+"Check","Result"
+"All hypoglycemia episodes within safety window","PASS"
+"No episodes before first dose","PASS"
+"No episodes after safety follow-up","PASS"
+"Safety follow-up lasts 30 days","PASS"

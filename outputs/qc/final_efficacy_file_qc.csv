@@ -1,0 +1,7 @@
+"Analysis","File_Exists","Has_Rows","Has_Columns","Result"
+"Primary_HbA1c",TRUE,TRUE,TRUE,"PASS"
+"HbA1c_Responder",TRUE,TRUE,TRUE,"PASS"
+"FPG",TRUE,TRUE,TRUE,"PASS"
+"Body_Weight",TRUE,TRUE,TRUE,"PASS"
+"MMRM",TRUE,TRUE,TRUE,"PASS"
+"MNAR",TRUE,TRUE,TRUE,"PASS"
