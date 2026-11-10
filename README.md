@@ -134,3 +134,47 @@ Other limitations include simplified (not fully compliant) SDTM/ADaM conventions
 ---
 
 **Portfolio focus:** trial simulation, reproducible statistical programming, missing-data analysis, ANCOVA, logistic regression, MMRM, safety summaries, QC, and clinical reporting in R.
+
+## SAS Statistical Analysis and Validation
+
+In addition to the R implementation, this project includes 26 SAS programs supporting clinical trial data validation, statistical analysis, sensitivity analyses, and safety reporting.
+
+### SAS Implementation
+
+The SAS component includes:
+
+- **Data preparation and quality control:** Import and validation of analysis datasets, including ADSL, ADEFF, ADLB, and ADAE; subject-level consistency and dataset integrity checks.
+- **Primary efficacy analysis:** Multiple imputation (MI) and ANCOVA for the change in HbA1c at Week 26.
+- **Secondary efficacy analyses:** MI-based logistic regression for HbA1c responder status, MI-based ANCOVA for fasting plasma glucose (FPG), and ANCOVA for body weight.
+- **Longitudinal analysis:** Mixed model for repeated measures (MMRM) for HbA1c across scheduled visits.
+- **Sensitivity analysis:** Missing-not-at-random (MNAR) delta-adjustment analysis to assess robustness of the primary efficacy conclusion.
+- **Safety analyses:** Treatment-emergent adverse events, serious adverse events, hypoglycemia, and adverse-event summaries by system organ class, preferred term, and severity.
+
+### Selected SAS Results
+
+| Analysis | SAS Result |
+|---|---|
+| Body weight ANCOVA | Adjusted treatment difference: −1.637 kg; 95% CI: −1.953 to −1.321 |
+| HbA1c MMRM at Week 26 | Adjusted treatment difference: −0.575; 95% CI: −0.801 to −0.349 |
+| FPG MI ANCOVA | Adjusted treatment difference: −10.322; 95% CI: −18.322 to −2.323; p = 0.0115 |
+| HbA1c responder MI logistic regression | Odds ratio: 2.543; 95% CI: 1.593 to 4.061 |
+| MNAR sensitivity analysis | Approximate tipping point: delta = 1.30 |
+
+### R and SAS Comparison
+
+The SAS implementation provides an additional analytical workflow for checking the reproducibility and consistency of selected trial results.
+
+The body-weight ANCOVA results agreed with the R implementation, and the HbA1c MMRM results were closely aligned.
+
+Some multiple-imputation analyses produced different numerical estimates between R and SAS because the implementations used different imputation methods or specifications. These differences should not be interpreted as exact cross-software replication.
+
+### Data Integrity
+
+The final SAS audit confirmed:
+
+- ADSL: 478 records representing 478 participants.
+- ADEFF: 2,868 records representing 478 participants.
+- ADLB: 8,604 records representing 478 participants.
+- ADAE: 251 adverse-event records representing 193 participants.
+
+**Note:** DIA-GLY3 is a simulated clinical trial developed for educational and portfolio purposes. The results are not findings from an actual clinical study.
